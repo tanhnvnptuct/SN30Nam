@@ -1,0 +1,13 @@
+ThreadName==DataReg
+ClassName==vnp.lottery.DataReg
+StartupType==2
+Status==2
+Parameter
+	lastSeq==1462736
+	LogDir==log/datareg
+	LogDefinition
+	DelayTime==15
+	NotificationInterval
+	NotificationString
+	testing_mode==Y
+Schedule

@@ -1,0 +1,50 @@
+# Global config
+EncryptAlgorithm==SHA
+AuthenticationCacheDuration==7200
+DateFormat==dd/MM/yyyy
+ReloadTime==30
+TimeZone
+	Offset==25200000
+	Description==Viet Nam/Ha Noi
+SystemProperties
+	mail.smtp.auth==true
+	com.telsoft.database.Database==1
+# Thread config
+ErrorLog==log/general/error.log
+ActionLog==log/general/action.log
+AlertLog==log/general/alert.log
+MaxLoggingSize==10000
+MaxConnectionAllowed==5
+# DB config
+DefaultDatabase==PORTAL_63
+PortID==6108
+ConnectionPoolSize==100
+ConnectionPoolInitial==10
+Connection
+	DBAPP_IOS
+		Url==jdbc:oracle:thin:@10.159.22.164:1521/BMDDB
+		Driver==oracle.jdbc.OracleDriver
+		UserName==NCPTPRO
+		Password==zApzLc/jrM/ZDojxnhZb1A==
+	PORTAL_63
+		Url==jdbc:oracle:thin:@10.156.3.252/drportal
+		Driver==oracle.jdbc.OracleDriver
+		UserName==winner
+		Password==aac9r2GFHvQ=
+	PORTAL_63_promotion
+		Url==jdbc:oracle:thin:@10.156.3.252/drportal
+		Driver==oracle.jdbc.OracleDriver
+		UserName==promotion
+		Password==ZuNmDEPw9WwgxrAqlRJm7A==
+	PIMA
+		Url==jdbc:oracle:thin:@10.159.25.116/RPTDATA
+		Driver==oracle.jdbc.OracleDriver
+		UserName==ncpt_vas
+		Password==7ipT5mjpM7I=
+# Test Msisdns
+TestMsisdns
+	0==1238281166
+	1==888749789
+	2==918968585
+	3==947181107
+	4==915891199

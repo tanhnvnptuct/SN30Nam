@@ -1,0 +1,25 @@
+Parameter
+	QueueAlarmParameter=^
+		0=^
+			0==QueueMDT
+			1==500000
+		1=^
+			0==QueueCardItem
+			1==500000
+		2=^
+			0==QueueMT
+			1==50000
+	ISDNList==84888749789
+	SendSMS==Y
+	Content==KM Mazda alert
+	LogDir==log/Queues
+	LogDefinition
+	DelayTime==3600
+	NotificationInterval
+	NotificationString
+	testing_mode==N
+ThreadName==ThreadViewQueue
+ClassName==vnp.thread.ThreadViewQueue
+StartupType==1
+Status==1
+Schedule

@@ -1,0 +1,13 @@
+ThreadName==Usag Mtr
+ClassName==vnp.lottery.UsageMtr
+StartupType==2
+Status==1
+Parameter
+	batch_count==3000
+	the_day_before==3
+	LogDir==log/usagemtr
+	LogDefinition
+	DelayTime==3600
+	NotificationInterval
+	NotificationString
+	testing_mode==Y

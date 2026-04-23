@@ -1,0 +1,22 @@
+ThreadName==Download CDR Topup
+ClassName==vnp.lottery.DowloadFTPFileNew
+StartupType==2
+Status==1
+Schedule
+	Schedule==ScheduleType==0\r\nExecutionTime\r\nAdditionValue\r\nStartTime==04:00:00\r\nEndTime==23:59:59\r\nExpectedDate==08/11/2022\r\nWeekDay\r\nMonthDay\r\nYearMonth\r\nScheduleID==1\r\nExecutionCount==36\r\n
+Parameter
+	BackupType==DELETE
+	Wildcard==*.txt
+	FTPServerURL==10.165.109.4
+	FTPUsername==SR_7116_NCPT
+	FTPPassword==SR_7116
+	FTPPort==21
+	OutputDir==CDR Topups
+	FTPFolder==/home/app/kmalo/active_SR_7116
+	BackUpDir==/home/app/kmalo/active_SR_7116/bak
+	LogDir==log/CDRTopups
+	LogDefinition
+	DelayTime==15
+	NotificationInterval
+	NotificationString
+	testing_mode==N

@@ -1,0 +1,11 @@
+ThreadName==PromotionUsage
+ClassName==vnp.lottery.PromotionUsage
+StartupType==2
+Status==2
+Parameter
+	LogDir==log/PromoTionUsage
+	LogDefinition
+	DelayTime==60
+	NotificationInterval
+	NotificationString
+	testing_mode==Y

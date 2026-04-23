@@ -1,0 +1,17 @@
+ThreadName==LotteryCode
+ClassName==vnp.lottery.LotteryCode
+StartupType==2
+Status==1
+Parameter
+	api_gencode_url==https://10.149.248.64/CommonLotteryV2/api/GenCodesOff/
+	campaignId==347
+	batch_count==1000
+	add_days==3
+	LogDir==log/loterry
+	LogDefinition
+	DelayTime==3
+	NotificationInterval
+	NotificationString
+	testing_mode==Y
+	price_per_code==100000
+Schedule
