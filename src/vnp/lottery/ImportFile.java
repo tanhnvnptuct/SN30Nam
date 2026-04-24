@@ -69,10 +69,6 @@ public class ImportFile extends PortalThread {
 		mstrBackupType = loadMandatory("BackupType");
 		mstrTempDir = loadDirectory("TempDir", true, true);
 		mstrCompress = loadString("Compress");
-		mstrDBUrl = loadString("Url");
-		mstrDBUserName = loadString("UserName");
-		mstrDBPassword = loadString("Password");
-		mbConnectManual = loadBoolean("ManualConnect");
 
 		try {
 			FileUtil.forceFolderExist(mstrImportDir);
@@ -196,13 +192,16 @@ public class ImportFile extends PortalThread {
 		return false;
 	}
 
+	@Override
+	public String getMyConnName() {
+		return "PORTAL_63";
+	};
+	
 	public void beforeProcessSession() throws Exception {
 		super.beforeSession();
 		if (mbConnectManual) {
-//			logMonitor(mstrDBUserName);
 			mcn = Database.getConnection(this.mstrDBUrl, this.mstrDBUserName, this.mstrDBPassword);
 		} else {
-//			logMonitor("mcnMain");
 			mcn = mcnMain;
 		}
 		mcn.setAutoCommit(false);

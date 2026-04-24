@@ -4,6 +4,7 @@ import java.sql.CallableStatement;
 import java.sql.PreparedStatement;
 import java.sql.ResultSet;
 import java.sql.SQLException;
+import java.sql.Types;
 import java.util.Calendar;
 import java.util.GregorianCalendar;
 import java.util.Vector;
@@ -22,19 +23,21 @@ public class CardTopup extends PortalThread {
 
 	@Override
 	public String getMyConnName() {
-		return "PORTAL_63";
+		return "PORTAL_63_winner";
 	};
 
 	private long lastSeq = 0;
+	private int amount_per_code = 0;
 	private String SQL_STMT = "Select * From TOPUPS Where ID>?";
 	private String msg_invite = "";
-	
+	private String SQL_GetNofCodes = "{?=call pkg_km_quy3_2020.fget_NofCodes_inDay(?,?)}";
+
 
 	@SuppressWarnings("unchecked")
 	@Override
 	protected void processSession() throws Exception {
 		PreparedStatement ps = null;
-
+		CallableStatement cs = null;
 		ResultSet rs = null;
 
 		try {
@@ -45,6 +48,10 @@ public class CardTopup extends PortalThread {
 
 			ps = mcnMain.prepareStatement(SQL_STMT);
 			ps.setLong(1, lastSeq);
+			
+			cs = mcnMain.prepareCall(SQL_GetNofCodes);
+			cs.registerOutParameter(1, Types.INTEGER);
+			
 
 			rs = ps.executeQuery();
 			int count = 0;
@@ -52,30 +59,26 @@ public class CardTopup extends PortalThread {
 			while (rs.next()) {
 				count++;
 				CardItem item = populateCardItem(rs);
-				if (item.get_amount() >= 20000 && item.get_msisdn().substring(0,2)!="87") {
-					item.set_nofCodes((int)item.get_amount()/20000);
-					card_queue.put(item);
+				
+				
+				if (!item.get_msisdn().substring(0,2).equals("87")&& !item.get_msisdn().substring(0,2).equals("99")
+						&& !item.get_msisdn().substring(0,2).equals("59")&& !item.get_msisdn().substring(0,2).equals("55")) {
+					
+					cs.setString(2, item.get_msisdn());
+					cs.setLong(3, item.get_amount());
+					cs.execute();
+					int nofCode = cs.getInt(1);
+					
+					if (nofCode > 0) {
+						item.set_nofCodes(nofCode);
+						card_queue.put(item);
+					} 
 				} 
 				
-//				int hour_of_day = calendar.get(Calendar.HOUR_OF_DAY);
-//				if (hour_of_day >= 8 && hour_of_day < 19 && rs.getInt("AMOUNT") >= 50000) {
-//						SmsMt mt = new SmsMt();
-//						mt.setSmsContent(msg_invite);
-//						mt.setMsisdn(item.get_msisdn());
-//						brc_queue.add(mt);
-//				} 
-
 				if (lastSeq < item.get_id())
 					lastSeq = item.get_id();
 			
 			}
-			
-//			SmsMt mt = new SmsMt();
-//			//mt.setShortCode(cfg_sms_code);
-//			mt.setSmsContent(msg_invite);
-//			mt.setMsisdn("943863097");
-////			mt.setMsisdn("941233764");
-//			brc_queue.add(mt);
 			
 			
 			if (count > 0) {
@@ -115,6 +118,7 @@ public class CardTopup extends PortalThread {
 		Vector vtReturn = new Vector();
 		////////////////////////////////////////////////////////
 		vtReturn.addElement(createParameterDefinition("lastSeq", lastSeq, ParameterType.PARAM_TEXTBOX_MAX, "10000"));
+		vtReturn.addElement(createParameterDefinition("amount_per_code", amount_per_code, ParameterType.PARAM_TEXTBOX_MAX, "10000"));
 		vtReturn.addElement(
 				createParameterDefinition("msg_invite", msg_invite, ParameterType.PARAM_TEXTBOX_MAX, "10000"));
 
@@ -125,6 +129,7 @@ public class CardTopup extends PortalThread {
 
 	public void fillParameter() throws AppException {
 		lastSeq = loadLong("lastSeq");
+		amount_per_code = loadInteger("amount_per_code");
 		msg_invite = loadString("msg_invite");
 		super.fillParameter();
 	}

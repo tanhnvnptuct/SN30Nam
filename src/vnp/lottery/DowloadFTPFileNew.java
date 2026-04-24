@@ -26,6 +26,11 @@ public class DowloadFTPFileNew extends FTPReceiverProcess{
 //	private String latestWildcard;
 	private SimpleDateFormat fmt1;
 	
+	@Override
+	public String getMyConnName() {
+		return "PORTAL_63";
+	};
+	
 	@SuppressWarnings("deprecation")
 	public void fillParameter() throws AppException {
 		super.fillParameter();

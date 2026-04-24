@@ -1,0 +1,6 @@
+Parameter
+ThreadName==Import cdr CSVImpExt
+ClassName==vnp.lottery.CSVImpExt
+StartupType==2
+Status==1
+Schedule

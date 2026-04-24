@@ -4,6 +4,7 @@ import java.sql.CallableStatement;
 import java.sql.PreparedStatement;
 import java.sql.ResultSet;
 import java.sql.SQLException;
+import java.sql.Types;
 import java.util.Calendar;
 import java.util.GregorianCalendar;
 import java.util.Vector;
@@ -27,14 +28,15 @@ public class DataReg extends PortalThread {
 
 	private long lastSeq = 0;
 	private String SQL_STMT = "Select * From data_srv_381132 Where ID>?";
-	
+	private String SQL_GetNofCodes = "{?=call pkg_km_quy3_2020.fget_NofCodes_inDay(?,?)}";
+
 	
 
 	@SuppressWarnings("unchecked")
 	@Override
 	protected void processSession() throws Exception {
 		PreparedStatement ps = null;
-
+		CallableStatement cs = null;
 		ResultSet rs = null;
 
 		try {
@@ -44,6 +46,9 @@ public class DataReg extends PortalThread {
 
 			ps = mcnMain.prepareStatement(SQL_STMT);
 			ps.setLong(1, lastSeq);
+			
+			cs = mcnMain.prepareCall(SQL_GetNofCodes);
+			cs.registerOutParameter(1, Types.INTEGER);
 
 			rs = ps.executeQuery();
 			int count = 0;
@@ -51,9 +56,19 @@ public class DataReg extends PortalThread {
 			while (rs.next()) {
 				count++;
 				CardItem item = populateCardItem(rs);
-				if (item.get_amount() >= 20000) {
-					item.set_nofCodes((int)item.get_amount()/20000);
-					card_queue.put(item);
+				
+				if (!item.get_msisdn().substring(0,2).equals("87")&& !item.get_msisdn().substring(0,2).equals("99")
+						&& !item.get_msisdn().substring(0,2).equals("59")&& !item.get_msisdn().substring(0,2).equals("55")) {
+					
+					cs.setString(2, item.get_msisdn());
+					cs.setLong(3, item.get_amount());
+					cs.execute();
+					int nofCode = cs.getInt(1);
+					
+					if (nofCode > 0) {
+						item.set_nofCodes(nofCode);
+						card_queue.put(item);
+					} 
 				} 
 				
 				
