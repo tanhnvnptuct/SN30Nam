@@ -7,9 +7,9 @@ Schedule
 Parameter
 	BackupType==DELETE
 	Wildcard==*.txt
-	FTPServerURL==10.165.109.4
-	FTPUsername==SR_7116_NCPT
-	FTPPassword==SR_7116
+	FTPServerURL==10.165.82.17
+	FTPUsername==tanhn
+	FTPPassword==123456
 	FTPPort==21
 	OutputDir==CDR Topups
 	FTPFolder==/home/app/kmalo/active_SR_7116

@@ -3,12 +3,12 @@ ClassName==vnp.lottery.CardTopup
 StartupType==2
 Status==1
 Parameter
-	lastSeq==6290630
-	msg_invite==Moi QK tham gia CTKM XAI VINA LAI VINFAST VE NHA tu 14/09/20 den 25/10/20. QK TIEU DUNG TKC tu 20.000d (hoac tich luy du 20.000d trong tuan) se nhan duoc MDT va co CO HOI trung thuong O TO/XE MAY DIEN VINFAST. Chi tiet lien he 18001091
-	LogDir==log/topups
+	lastSeq==47332837
+	amount_per_code==30000
+	msg_invite
+	LogDir==log/cardtopup
 	LogDefinition
-	DelayTime==15
+	DelayTime==10
 	NotificationInterval
 	NotificationString
 	testing_mode==Y
-Schedule

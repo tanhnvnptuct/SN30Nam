@@ -1,0 +1,583 @@
+	<changedlog>
+		<time>29/04/2026 09:27:05</time>
+		<logid>1777429598964</logid>
+		<user>system</user>
+		<threadid>1021</threadid>
+		<class>vnp.lottery.ImportTextFile</class>
+		<name>Import cdr Topups</name>
+		<param_name>Url</param_name>
+		<param_old_value>jdbc:oracle:thin:@10.156.3.252:1521/drportal</param_old_value>
+		<param_new_value>jdbc:oracle:thin:@//10.156.3.252:1521/drportal</param_new_value>
+	</changedlog>
+	<changedlog>
+		<time>29/04/2026 09:28:01</time>
+		<logid>1777429598965</logid>
+		<user>system</user>
+		<threadid>1021</threadid>
+		<class>vnp.lottery.ImportTextFile</class>
+		<name>Import cdr Topups</name>
+		<param_name>SkipFirstRow</param_name>
+		<param_old_value>N</param_old_value>
+		<param_new_value></param_new_value>
+	</changedlog>
+	<changedlog>
+		<time>29/04/2026 09:28:01</time>
+		<logid>1777429598965</logid>
+		<user>system</user>
+		<threadid>1021</threadid>
+		<class>vnp.lottery.ImportTextFile</class>
+		<name>Import cdr Topups</name>
+		<param_name>Header</param_name>
+		<param_old_value>SUBSCRIBER_NUMBERS,TIMESTAMP,AMOUNT,ACCALO,COS_NAME,COREBALANCE,TIMEEXT,,VOUCHER_SERIAL_NUMBER,,,STATUSK1C,STATUSK2C,STATUSPPA</param_old_value>
+		<param_new_value></param_new_value>
+	</changedlog>
+	<changedlog>
+		<time>29/04/2026 09:28:01</time>
+		<logid>1777429598965</logid>
+		<user>system</user>
+		<threadid>1021</threadid>
+		<class>vnp.lottery.ImportTextFile</class>
+		<name>Import cdr Topups</name>
+		<param_name>Delimited</param_name>
+		<param_old_value>,</param_old_value>
+		<param_new_value></param_new_value>
+	</changedlog>
+	<changedlog>
+		<time>29/04/2026 09:28:01</time>
+		<logid>1777429598965</logid>
+		<user>system</user>
+		<threadid>1021</threadid>
+		<class>vnp.lottery.ImportTextFile</class>
+		<name>Import cdr Topups</name>
+		<param_name>InsertCommand</param_name>
+		<param_old_value>insert into topups (ID,SUBSCRIBER,TIMESTAMP,AMOUNT,ACCALO,insertdate,filename) values (seq_topup.NEXTVAL,?,to_date(?,&apos;yyyy-mm-dd hh24:mi:ss&apos;),?,?,sysdate,$FileName)</param_old_value>
+		<param_new_value></param_new_value>
+	</changedlog>
+	<changedlog>
+		<time>29/04/2026 09:28:01</time>
+		<logid>1777429598965</logid>
+		<user>system</user>
+		<threadid>1021</threadid>
+		<class>vnp.lottery.ImportTextFile</class>
+		<name>Import cdr Topups</name>
+		<param_name>InsertField</param_name>
+		<param_old_value>SUBSCRIBER_NUMBERS,TIMESTAMP,AMOUNT,ACCALO</param_old_value>
+		<param_new_value></param_new_value>
+	</changedlog>
+	<changedlog>
+		<time>29/04/2026 09:28:01</time>
+		<logid>1777429598965</logid>
+		<user>system</user>
+		<threadid>1021</threadid>
+		<class>vnp.lottery.ImportTextFile</class>
+		<name>Import cdr Topups</name>
+		<param_name>BatchSize</param_name>
+		<param_old_value>1000</param_old_value>
+		<param_new_value></param_new_value>
+	</changedlog>
+	<changedlog>
+		<time>29/04/2026 09:28:01</time>
+		<logid>1777429598965</logid>
+		<user>system</user>
+		<threadid>1021</threadid>
+		<class>vnp.lottery.ImportTextFile</class>
+		<name>Import cdr Topups</name>
+		<param_name>ManualConnect</param_name>
+		<param_old_value>Y</param_old_value>
+		<param_new_value></param_new_value>
+	</changedlog>
+	<changedlog>
+		<time>29/04/2026 09:28:01</time>
+		<logid>1777429598965</logid>
+		<user>system</user>
+		<threadid>1021</threadid>
+		<class>vnp.lottery.ImportTextFile</class>
+		<name>Import cdr Topups</name>
+		<param_name>Url</param_name>
+		<param_old_value>jdbc:oracle:thin:@//10.156.3.252:1521/drportal</param_old_value>
+		<param_new_value></param_new_value>
+	</changedlog>
+	<changedlog>
+		<time>29/04/2026 09:28:01</time>
+		<logid>1777429598965</logid>
+		<user>system</user>
+		<threadid>1021</threadid>
+		<class>vnp.lottery.ImportTextFile</class>
+		<name>Import cdr Topups</name>
+		<param_name>UserName</param_name>
+		<param_old_value>winner</param_old_value>
+		<param_new_value></param_new_value>
+	</changedlog>
+	<changedlog>
+		<time>29/04/2026 09:28:01</time>
+		<logid>1777429598965</logid>
+		<user>system</user>
+		<threadid>1021</threadid>
+		<class>vnp.lottery.ImportTextFile</class>
+		<name>Import cdr Topups</name>
+		<param_name>Password</param_name>
+		<param_old_value>KMwebVNP$$1898</param_old_value>
+		<param_new_value></param_new_value>
+	</changedlog>
+	<changedlog>
+		<time>29/04/2026 09:28:01</time>
+		<logid>1777429598965</logid>
+		<user>system</user>
+		<threadid>1021</threadid>
+		<class>vnp.lottery.ImportTextFile</class>
+		<name>Import cdr Topups</name>
+		<param_name>ImportDir</param_name>
+		<param_old_value>/CDR Topups</param_old_value>
+		<param_new_value></param_new_value>
+	</changedlog>
+	<changedlog>
+		<time>29/04/2026 09:28:01</time>
+		<logid>1777429598965</logid>
+		<user>system</user>
+		<threadid>1021</threadid>
+		<class>vnp.lottery.ImportTextFile</class>
+		<name>Import cdr Topups</name>
+		<param_name>BackupDir</param_name>
+		<param_old_value>/CDR Topups/bk</param_old_value>
+		<param_new_value></param_new_value>
+	</changedlog>
+	<changedlog>
+		<time>29/04/2026 09:28:01</time>
+		<logid>1777429598965</logid>
+		<user>system</user>
+		<threadid>1021</threadid>
+		<class>vnp.lottery.ImportTextFile</class>
+		<name>Import cdr Topups</name>
+		<param_name>RejectDir</param_name>
+		<param_old_value>/CDR Topups/rj</param_old_value>
+		<param_new_value></param_new_value>
+	</changedlog>
+	<changedlog>
+		<time>29/04/2026 09:28:01</time>
+		<logid>1777429598965</logid>
+		<user>system</user>
+		<threadid>1021</threadid>
+		<class>vnp.lottery.ImportTextFile</class>
+		<name>Import cdr Topups</name>
+		<param_name>ErrorDir</param_name>
+		<param_old_value>/CDR Topups/err</param_old_value>
+		<param_new_value></param_new_value>
+	</changedlog>
+	<changedlog>
+		<time>29/04/2026 09:28:01</time>
+		<logid>1777429598965</logid>
+		<user>system</user>
+		<threadid>1021</threadid>
+		<class>vnp.lottery.ImportTextFile</class>
+		<name>Import cdr Topups</name>
+		<param_name>BackupType</param_name>
+		<param_old_value>DIRECT</param_old_value>
+		<param_new_value></param_new_value>
+	</changedlog>
+	<changedlog>
+		<time>29/04/2026 09:28:01</time>
+		<logid>1777429598965</logid>
+		<user>system</user>
+		<threadid>1021</threadid>
+		<class>vnp.lottery.ImportTextFile</class>
+		<name>Import cdr Topups</name>
+		<param_name>TempDir</param_name>
+		<param_old_value>/CDR Topups/temp</param_old_value>
+		<param_new_value></param_new_value>
+	</changedlog>
+	<changedlog>
+		<time>29/04/2026 09:28:01</time>
+		<logid>1777429598965</logid>
+		<user>system</user>
+		<threadid>1021</threadid>
+		<class>vnp.lottery.ImportTextFile</class>
+		<name>Import cdr Topups</name>
+		<param_name>Compress</param_name>
+		<param_old_value>N</param_old_value>
+		<param_new_value></param_new_value>
+	</changedlog>
+	<changedlog>
+		<time>29/04/2026 09:28:01</time>
+		<logid>1777429598965</logid>
+		<user>system</user>
+		<threadid>1021</threadid>
+		<class>vnp.lottery.ImportTextFile</class>
+		<name>Import cdr Topups</name>
+		<param_name>Wildcard</param_name>
+		<param_old_value>*.txt</param_old_value>
+		<param_new_value></param_new_value>
+	</changedlog>
+	<changedlog>
+		<time>29/04/2026 09:28:01</time>
+		<logid>1777429598965</logid>
+		<user>system</user>
+		<threadid>1021</threadid>
+		<class>vnp.lottery.ImportTextFile</class>
+		<name>Import cdr Topups</name>
+		<param_name>TimeSleep</param_name>
+		<param_old_value>1</param_old_value>
+		<param_new_value></param_new_value>
+	</changedlog>
+	<changedlog>
+		<time>29/04/2026 09:28:01</time>
+		<logid>1777429598965</logid>
+		<user>system</user>
+		<threadid>1021</threadid>
+		<class>vnp.lottery.ImportTextFile</class>
+		<name>Import cdr Topups</name>
+		<param_name>NumRecordSleep</param_name>
+		<param_old_value>1</param_old_value>
+		<param_new_value></param_new_value>
+	</changedlog>
+	<changedlog>
+		<time>29/04/2026 09:28:01</time>
+		<logid>1777429598965</logid>
+		<user>system</user>
+		<threadid>1021</threadid>
+		<class>vnp.lottery.ImportTextFile</class>
+		<name>Import cdr Topups</name>
+		<param_name>LogDir</param_name>
+		<param_old_value>log/importtopups</param_old_value>
+		<param_new_value></param_new_value>
+	</changedlog>
+	<changedlog>
+		<time>29/04/2026 09:28:01</time>
+		<logid>1777429598965</logid>
+		<user>system</user>
+		<threadid>1021</threadid>
+		<class>vnp.lottery.ImportTextFile</class>
+		<name>Import cdr Topups</name>
+		<param_name>LogDefinition</param_name>
+		<param_old_value></param_old_value>
+		<param_new_value></param_new_value>
+	</changedlog>
+	<changedlog>
+		<time>29/04/2026 09:28:01</time>
+		<logid>1777429598965</logid>
+		<user>system</user>
+		<threadid>1021</threadid>
+		<class>vnp.lottery.ImportTextFile</class>
+		<name>Import cdr Topups</name>
+		<param_name>DelayTime</param_name>
+		<param_old_value>15</param_old_value>
+		<param_new_value></param_new_value>
+	</changedlog>
+	<changedlog>
+		<time>29/04/2026 09:28:01</time>
+		<logid>1777429598965</logid>
+		<user>system</user>
+		<threadid>1021</threadid>
+		<class>vnp.lottery.ImportTextFile</class>
+		<name>Import cdr Topups</name>
+		<param_name>NotificationInterval</param_name>
+		<param_old_value></param_old_value>
+		<param_new_value></param_new_value>
+	</changedlog>
+	<changedlog>
+		<time>29/04/2026 09:28:01</time>
+		<logid>1777429598965</logid>
+		<user>system</user>
+		<threadid>1021</threadid>
+		<class>vnp.lottery.ImportTextFile</class>
+		<name>Import cdr Topups</name>
+		<param_name>NotificationString</param_name>
+		<param_old_value></param_old_value>
+		<param_new_value></param_new_value>
+	</changedlog>
+	<changedlog>
+		<time>29/04/2026 09:28:01</time>
+		<logid>1777429598965</logid>
+		<user>system</user>
+		<threadid>1021</threadid>
+		<class>vnp.lottery.ImportTextFile</class>
+		<name>Import cdr Topups</name>
+		<param_name>testing_mode</param_name>
+		<param_old_value>Y</param_old_value>
+		<param_new_value></param_new_value>
+	</changedlog>
+	<changedlog>
+		<time>29/04/2026 09:28:01</time>
+		<logid>1777429598965</logid>
+		<user>system</user>
+		<threadid>1021</threadid>
+		<class>vnp.lottery.ImportTextFile</class>
+		<name>Import cdr Topups</name>
+		<param_name>DBUrl</param_name>
+		<param_old_value>jdbc:oracle:thin:@10.156.4.170:1521/CP</param_old_value>
+		<param_new_value></param_new_value>
+	</changedlog>
+	<changedlog>
+		<time>29/04/2026 09:28:01</time>
+		<logid>1777429598965</logid>
+		<user>system</user>
+		<threadid>1021</threadid>
+		<class>vnp.lottery.ImportTextFile</class>
+		<name>Import cdr Topups</name>
+		<param_name>DBUserName</param_name>
+		<param_old_value>interc</param_old_value>
+		<param_new_value></param_new_value>
+	</changedlog>
+	<changedlog>
+		<time>29/04/2026 09:28:01</time>
+		<logid>1777429598965</logid>
+		<user>system</user>
+		<threadid>1021</threadid>
+		<class>vnp.lottery.ImportTextFile</class>
+		<name>Import cdr Topups</name>
+		<param_name>DBPassword</param_name>
+		<param_old_value>interc123$</param_old_value>
+		<param_new_value></param_new_value>
+	</changedlog>
+	<changedlog>
+		<time>29/04/2026 09:28:01</time>
+		<logid>1777429598965</logid>
+		<user>system</user>
+		<threadid>1021</threadid>
+		<class>vnp.lottery.ImportTextFile</class>
+		<name>Import cdr Topups</name>
+		<param_name>ImportStyle</param_name>
+		<param_old_value>Directly</param_old_value>
+		<param_new_value></param_new_value>
+	</changedlog>
+	<changedlog>
+		<time>29/04/2026 09:28:01</time>
+		<logid>1777429598965</logid>
+		<user>system</user>
+		<threadid>1021</threadid>
+		<class>vnp.lottery.ImportTextFile</class>
+		<name>Import cdr Topups</name>
+		<param_name>BackupStyle</param_name>
+		<param_old_value>Directly</param_old_value>
+		<param_new_value></param_new_value>
+	</changedlog>
+	<changedlog>
+		<time>29/04/2026 09:28:01</time>
+		<logid>1777429598965</logid>
+		<user>system</user>
+		<threadid>1021</threadid>
+		<class>vnp.lottery.ImportTextFile</class>
+		<name>Import cdr Topups</name>
+		<param_name>ZipFileBackupStyle</param_name>
+		<param_old_value>Daily</param_old_value>
+		<param_new_value></param_new_value>
+	</changedlog>
+	<changedlog>
+		<time>29/04/2026 09:28:01</time>
+		<logid>1777429598965</logid>
+		<user>system</user>
+		<threadid>1021</threadid>
+		<class>vnp.lottery.ImportTextFile</class>
+		<name>Import cdr Topups</name>
+		<param_name>RetryDir</param_name>
+		<param_old_value>data_addon2/retry</param_old_value>
+		<param_new_value></param_new_value>
+	</changedlog>
+	<changedlog>
+		<time>29/04/2026 09:28:01</time>
+		<logid>1777429598965</logid>
+		<user>system</user>
+		<threadid>1021</threadid>
+		<class>vnp.lottery.ImportTextFile</class>
+		<name>Import cdr Topups</name>
+		<param_name>RejectStyle</param_name>
+		<param_old_value>Directly</param_old_value>
+		<param_new_value></param_new_value>
+	</changedlog>
+	<changedlog>
+		<time>29/04/2026 09:28:01</time>
+		<logid>1777429598965</logid>
+		<user>system</user>
+		<threadid>1021</threadid>
+		<class>vnp.lottery.ImportTextFile</class>
+		<name>Import cdr Topups</name>
+		<param_name>ZipFileWildcard</param_name>
+		<param_old_value>*.zip</param_old_value>
+		<param_new_value></param_new_value>
+	</changedlog>
+	<changedlog>
+		<time>29/04/2026 09:28:01</time>
+		<logid>1777429598965</logid>
+		<user>system</user>
+		<threadid>1021</threadid>
+		<class>vnp.lottery.ImportTextFile</class>
+		<name>Import cdr Topups</name>
+		<param_name>Compressed</param_name>
+		<param_old_value>Not compressed</param_old_value>
+		<param_new_value></param_new_value>
+	</changedlog>
+	<changedlog>
+		<time>29/04/2026 09:28:01</time>
+		<logid>1777429598965</logid>
+		<user>system</user>
+		<threadid>1021</threadid>
+		<class>vnp.lottery.ImportTextFile</class>
+		<name>Import cdr Topups</name>
+		<param_name>DateFormat</param_name>
+		<param_old_value></param_old_value>
+		<param_new_value></param_new_value>
+	</changedlog>
+	<changedlog>
+		<time>29/04/2026 09:28:01</time>
+		<logid>1777429598965</logid>
+		<user>system</user>
+		<threadid>1021</threadid>
+		<class>vnp.lottery.ImportTextFile</class>
+		<name>Import cdr Topups</name>
+		<param_name>ProcessDate</param_name>
+		<param_old_value></param_old_value>
+		<param_new_value></param_new_value>
+	</changedlog>
+	<changedlog>
+		<time>29/04/2026 09:28:01</time>
+		<logid>1777429598965</logid>
+		<user>system</user>
+		<threadid>1021</threadid>
+		<class>vnp.lottery.ImportTextFile</class>
+		<name>Import cdr Topups</name>
+		<param_name>LastProcessFile</param_name>
+		<param_old_value>game_bundle_register-2019-09-24.0.log</param_old_value>
+		<param_new_value></param_new_value>
+	</changedlog>
+	<changedlog>
+		<time>29/04/2026 09:28:01</time>
+		<logid>1777429598965</logid>
+		<user>system</user>
+		<threadid>1021</threadid>
+		<class>vnp.lottery.ImportTextFile</class>
+		<name>Import cdr Topups</name>
+		<param_name>EOFSymbol</param_name>
+		<param_old_value>|</param_old_value>
+		<param_new_value></param_new_value>
+	</changedlog>
+	<changedlog>
+		<time>29/04/2026 09:28:01</time>
+		<logid>1777429598965</logid>
+		<user>system</user>
+		<threadid>1021</threadid>
+		<class>vnp.lottery.ImportTextFile</class>
+		<name>Import cdr Topups</name>
+		<param_name>EORSymbol</param_name>
+		<param_old_value>\n</param_old_value>
+		<param_new_value></param_new_value>
+	</changedlog>
+	<changedlog>
+		<time>29/04/2026 09:28:01</time>
+		<logid>1777429598965</logid>
+		<user>system</user>
+		<threadid>1021</threadid>
+		<class>vnp.lottery.ImportTextFile</class>
+		<name>Import cdr Topups</name>
+		<param_name>FieldList</param_name>
+		<param_old_value>1,2,3,4,5,6,7,8,9,10,11,12,13,14</param_old_value>
+		<param_new_value></param_new_value>
+	</changedlog>
+	<changedlog>
+		<time>29/04/2026 09:28:01</time>
+		<logid>1777429598965</logid>
+		<user>system</user>
+		<threadid>1021</threadid>
+		<class>vnp.lottery.ImportTextFile</class>
+		<name>Import cdr Topups</name>
+		<param_name>SQLValidateCommand</param_name>
+		<param_old_value></param_old_value>
+		<param_new_value></param_new_value>
+	</changedlog>
+	<changedlog>
+		<time>29/04/2026 09:28:01</time>
+		<logid>1777429598965</logid>
+		<user>system</user>
+		<threadid>1021</threadid>
+		<class>vnp.lottery.ImportTextFile</class>
+		<name>Import cdr Topups</name>
+		<param_name>SQLCommand</param_name>
+		<param_old_value>insert into cdr_data_addon2(date_time,msisdn,service_code,cp_code,content_id,game_code,cp_trans_id,mo_content,mediatransid,spsrequestid,errorcode,price,volume,expire_date,file_name) values (to_date(substr(?,1,19),&apos;dd/mm/yyyy hh24:mi:ss&apos;),?,?,?,?,?,?,?,?,?,?,?,?,to_date(?,&apos;dd/mm/yyyy hh24:mi:ss&apos;),&apos;$FileName&apos;)</param_old_value>
+		<param_new_value></param_new_value>
+	</changedlog>
+	<changedlog>
+		<time>29/04/2026 09:28:01</time>
+		<logid>1777429598965</logid>
+		<user>system</user>
+		<threadid>1021</threadid>
+		<class>vnp.lottery.ImportTextFile</class>
+		<name>Import cdr Topups</name>
+		<param_name>SQLQueryFileIDCommand</param_name>
+		<param_old_value></param_old_value>
+		<param_new_value></param_new_value>
+	</changedlog>
+	<changedlog>
+		<time>29/04/2026 09:28:01</time>
+		<logid>1777429598965</logid>
+		<user>system</user>
+		<threadid>1021</threadid>
+		<class>vnp.lottery.ImportTextFile</class>
+		<name>Import cdr Topups</name>
+		<param_name>SQLPreCommand</param_name>
+		<param_old_value></param_old_value>
+		<param_new_value></param_new_value>
+	</changedlog>
+	<changedlog>
+		<time>29/04/2026 09:28:01</time>
+		<logid>1777429598965</logid>
+		<user>system</user>
+		<threadid>1021</threadid>
+		<class>vnp.lottery.ImportTextFile</class>
+		<name>Import cdr Topups</name>
+		<param_name>SQLPstCommand</param_name>
+		<param_old_value></param_old_value>
+		<param_new_value></param_new_value>
+	</changedlog>
+	<changedlog>
+		<time>29/04/2026 09:28:01</time>
+		<logid>1777429598965</logid>
+		<user>system</user>
+		<threadid>1021</threadid>
+		<class>vnp.lottery.ImportTextFile</class>
+		<name>Import cdr Topups</name>
+		<param_name>Alert</param_name>
+		<param_old_value></param_old_value>
+		<param_new_value></param_new_value>
+	</changedlog>
+	<changedlog>
+		<time>29/04/2026 09:28:01</time>
+		<logid>1777429598965</logid>
+		<user>system</user>
+		<threadid>1021</threadid>
+		<class>vnp.lottery.ImportTextFile</class>
+		<name>Import cdr Topups</name>
+		<param_name>Debug</param_name>
+		<param_old_value></param_old_value>
+		<param_new_value></param_new_value>
+	</changedlog>
+	<changedlog>
+		<time>29/04/2026 09:28:01</time>
+		<logid>1777429598965</logid>
+		<user>system</user>
+		<threadid>1021</threadid>
+		<class>vnp.lottery.ImportTextFile</class>
+		<name>Import cdr Topups</name>
+		<param_name>SingleSession</param_name>
+		<param_old_value></param_old_value>
+		<param_new_value></param_new_value>
+	</changedlog>
+	<changedlog>
+		<time>29/04/2026 09:28:01</time>
+		<logid>1777429598965</logid>
+		<user>system</user>
+		<threadid>1021</threadid>
+		<class>vnp.lottery.ImportTextFile</class>
+		<name>Import cdr Topups</name>
+		<param_name>ThreadGroup</param_name>
+		<param_old_value></param_old_value>
+		<param_new_value></param_new_value>
+	</changedlog>
+	<changedlog>
+		<time>29/04/2026 09:28:01</time>
+		<logid>1777429598965</logid>
+		<user>system</user>
+		<threadid>1021</threadid>
+		<class>vnp.lottery.ImportTextFile</class>
+		<name>Import cdr Topups</name>
+		<param_name>ConnectDB</param_name>
+		<param_old_value></param_old_value>
+		<param_new_value></param_new_value>
+	</changedlog>

@@ -1,0 +1,39 @@
+29/04 09:08:10 Error occured: IO Error: Invalid connection string format, a valid format is: "host:port:sid" 
+29/04 09:08:10 Immediate execution completed
+29/04 09:18:12 Error occured: IO Error: Invalid connection string format, a valid format is: "host:port:sid" 
+29/04 09:18:12 Immediate execution completed
+29/04 09:27:06 Error occured: IO Error: Invalid connection string format, a valid format is: "host:port:sid" 
+29/04 09:27:06 Immediate execution completed
+29/04 09:27:10 Error occured: IO Error: Invalid connection string format, a valid format is: "host:port:sid" 
+29/04 09:27:10 Immediate execution completed
+29/04 09:27:15 Start performing immediate execution
+29/04 09:27:15 Error occured: IO Error: Invalid connection string format, a valid format is: "host:port:sid" 
+29/04 09:27:15 Immediate execution completed
+29/04 09:28:03 Error occured: IO Error: Invalid connection string format, a valid format is: "host:port:sid" 
+29/04 09:28:03 Immediate execution completed
+29/04 09:28:07 Error occured: IO Error: Invalid connection string format, a valid format is: "host:port:sid" 
+29/04 09:28:07 Immediate execution completed
+29/04 09:28:11 Start performing immediate execution
+29/04 09:28:11 Error occured: IO Error: Invalid connection string format, a valid format is: "host:port:sid" 
+29/04 09:28:11 Immediate execution completed
+29/04 09:46:59 Error occured: ORA-01017: invalid username/password; logon denied
+
+29/04 09:46:59 Immediate execution completed
+29/04 09:47:05 Start performing immediate execution
+29/04 09:47:07 Error occured: ORA-01017: invalid username/password; logon denied
+
+29/04 09:47:07 Immediate execution completed
+29/04 09:48:53 Error occured: ORA-01017: invalid username/password; logon denied
+
+29/04 09:48:53 Immediate execution completed
+29/04 09:49:16 Error occured: ORA-01017: invalid username/password; logon denied
+
+29/04 09:49:16 Immediate execution completed
+29/04 09:52:45 Immediate execution completed
+29/04 09:52:53 Start performing immediate execution
+29/04 09:52:53 Immediate execution completed
+29/04 09:52:55 Immediate execution completed
+29/04 09:58:08 Immediate execution completed
+29/04 10:01:48 Immediate execution completed
+29/04 10:02:21 Immediate execution completed
+29/04 10:08:51 Immediate execution completed

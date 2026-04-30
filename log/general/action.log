@@ -1,2 +1,88 @@
-23/04 17:01:08 [STARTED]ThreadViewQueue started
-23/04 17:01:24 [CONNECTED]User 'system' connected successfully
+29/04 09:47:41 [STARTED]ThreadViewQueue started
+29/04 09:47:42 [CONNECTED]User 'system' connected successfully
+29/04 09:48:53 User 'system' try to update parameter of thread 'Import cdr Topups'
+29/04 09:48:53 Parameter of thread 'Import cdr Topups' updated
+29/04 09:52:36 [STARTED]ThreadViewQueue started
+29/04 09:52:40 [CONNECTED]User 'system' connected successfully
+29/04 10:00:36 [STARTED]ThreadViewQueue started
+29/04 10:00:39 [CONNECTED]User 'system' connected successfully
+29/04 10:02:13 [STARTED]ThreadViewQueue started
+29/04 10:02:14 [CONNECTED]User 'system' connected successfully
+29/04 10:04:14 [STARTED]ThreadViewQueue started
+29/04 10:04:15 [CONNECTED]User 'system' connected successfully
+29/04 10:07:08 [STARTED]ThreadViewQueue started
+29/04 10:07:13 [CONNECT-FAIL]User '' connected failure
+29/04 10:08:43 [STARTED]ThreadViewQueue started
+29/04 10:08:47 [CONNECTED]User 'system' connected successfully
+29/04 10:12:43 [STARTED]ThreadViewQueue started
+29/04 10:12:45 [CONNECTED]User 'system' connected successfully
+29/04 10:26:42 [STARTED]ThreadViewQueue started
+29/04 10:26:44 [CONNECTED]User 'system' connected successfully
+29/04 10:26:57 [STARTED]ThreadViewQueue started
+29/04 10:27:05 [CONNECTED]User 'system' connected successfully
+29/04 10:37:40 [STARTED]ThreadViewQueue started
+29/04 10:37:42 [CONNECTED]User 'system' connected successfully
+29/04 10:39:16 [STARTED]ThreadViewQueue started
+29/04 10:39:18 [CONNECTED]User 'system' connected successfully
+29/04 10:39:39 [STARTED]ThreadViewQueue started
+29/04 10:39:47 [CONNECTED]User 'system' connected successfully
+30/04 09:46:02 [STARTED]ThreadViewQueue started
+30/04 09:46:51 [CONNECTED]User 'system' connected successfully
+30/04 09:49:23 User 'system' try to update parameter of thread 'Download CDR Topup'
+30/04 09:49:23 Parameter of thread 'Download CDR Topup' updated
+30/04 09:54:22 [STARTED]ThreadViewQueue started
+30/04 09:54:24 [CONNECTED]User 'system' connected successfully
+30/04 09:55:32 [STARTED]ThreadViewQueue started
+30/04 09:55:33 [CONNECTED]User 'system' connected successfully
+30/04 10:00:29 [STARTED]ThreadViewQueue started
+30/04 10:00:30 [CONNECTED]User 'system' connected successfully
+30/04 10:22:32 [STARTED]ThreadViewQueue started
+30/04 10:22:35 [CONNECTED]User 'system' connected successfully
+30/04 10:34:38 [STARTED]ThreadViewQueue started
+30/04 10:34:41 [CONNECTED]User 'system' connected successfully
+30/04 10:37:24 [STARTED]ThreadViewQueue started
+30/04 10:37:25 [CONNECTED]User 'system' connected successfully
+30/04 10:49:05 [STARTED]ThreadViewQueue started
+30/04 10:49:12 [CONNECTED]User 'system' connected successfully
+30/04 10:54:57 [STARTED]ThreadViewQueue started
+30/04 10:55:03 [CONNECTED]User 'system' connected successfully
+30/04 10:57:51 User 'system' try to update parameter of thread 'Import cdr CSVImpExt'
+30/04 10:57:51 Parameter of thread 'Import cdr CSVImpExt' updated
+30/04 10:58:54 User 'system' try to update parameter of thread 'Import cdr CSVImpExt'
+30/04 10:58:54 Parameter of thread 'Import cdr CSVImpExt' updated
+30/04 10:59:50 User 'system' try to update parameter of thread 'Import cdr CSVImpExt'
+30/04 10:59:50 Parameter of thread 'Import cdr CSVImpExt' updated
+30/04 11:06:54 [STARTED]ThreadViewQueue started
+30/04 11:07:03 [CONNECTED]User 'system' connected successfully
+30/04 11:12:37 [STARTED]ThreadViewQueue started
+30/04 11:12:42 [CONNECTED]User 'system' connected successfully
+30/04 11:12:58 User 'system' try to update parameter of thread 'Import cdr CSVImpExt'
+30/04 11:12:58 Parameter of thread 'Import cdr CSVImpExt' updated
+30/04 11:13:40 [STARTED]ThreadViewQueue started
+30/04 11:13:43 [CONNECTED]User 'system' connected successfully
+30/04 11:18:23 User 'system' try to update parameter of thread 'Import cdr CSVImpExt'
+30/04 11:18:23 Parameter of thread 'Import cdr CSVImpExt' updated
+30/04 11:26:05 User 'system' try to update parameter of thread 'Import cdr CSVImpExt'
+30/04 11:26:05 Parameter of thread 'Import cdr CSVImpExt' updated
+30/04 11:27:30 [STARTED]ThreadViewQueue started
+30/04 11:28:19 [CONNECTED]User 'system' connected successfully
+30/04 11:30:03 [STARTED]ThreadViewQueue started
+30/04 11:30:06 [CONNECTED]User 'system' connected successfully
+30/04 11:40:00 User 'system' try to update parameter of thread 'Import cdr CSVImpExt'
+30/04 11:40:00 Parameter of thread 'Import cdr CSVImpExt' updated
+30/04 11:40:11 [STARTED]ThreadViewQueue started
+30/04 11:40:13 [CONNECTED]User 'system' connected successfully
+30/04 11:40:41 User 'system' try to update parameter of thread 'Import cdr CSVImpExt'
+30/04 11:40:41 Parameter of thread 'Import cdr CSVImpExt' updated
+30/04 11:47:34 User 'system' try to update parameter of thread 'CardTopup'
+30/04 11:47:40 User 'system' try to update parameter of thread 'CardTopup'
+30/04 11:47:51 User 'system' try to update parameter of thread 'CardTopup'
+30/04 11:47:51 Parameter of thread 'CardTopup' updated
+30/04 11:50:08 User 'system' try to update parameter of thread 'CardTopup'
+30/04 11:50:08 Parameter of thread 'CardTopup' updated
+30/04 11:51:49 User 'system' try to update parameter of thread 'CardTopup'
+30/04 11:51:49 Parameter of thread 'CardTopup' updated
+30/04 11:54:31 [STARTED]ThreadViewQueue started
+30/04 11:54:35 [CONNECTED]User 'system' connected successfully
+30/04 11:55:04 User 'system' try to update parameter of thread 'CardTopup'
+30/04 11:55:04 Parameter of thread 'CardTopup' updated

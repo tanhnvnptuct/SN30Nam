@@ -28,7 +28,7 @@ public class DowloadFTPFileNew extends FTPReceiverProcess{
 	
 	@Override
 	public String getMyConnName() {
-		return "PORTAL_63";
+		return "PORTAL_63_winner";
 	};
 	
 	@SuppressWarnings("deprecation")
@@ -88,7 +88,7 @@ public class DowloadFTPFileNew extends FTPReceiverProcess{
 			};
 
 	        //FTPFile[] listFiles = ftpClient.listFiles(inputDir, filter);
-			FTPFile[] listFiles = ftpClient.listFiles(inputDir);
+			FTPFile[] listFiles = ftpClient.listFiles();
 			for (FTPFile ftpFile : listFiles) {
 				if(ftpFile.isFile()){
 					File localfile = new File(ftpOutputDir + "/" + ftpFile.getName());

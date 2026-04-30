@@ -16,7 +16,7 @@ AlertLog==log/general/alert.log
 MaxLoggingSize==10000
 MaxConnectionAllowed==5
 # DB config
-DefaultDatabase==PORTAL_63
+DefaultDatabase==PORTAL_63_winner
 PortID==6108
 ConnectionPoolSize==100
 ConnectionPoolInitial==10
@@ -26,11 +26,11 @@ Connection
 		Driver==oracle.jdbc.OracleDriver
 		UserName==NCPTPRO
 		Password==zApzLc/jrM/ZDojxnhZb1A==
-	PORTAL_63
+	PORTAL_63_winner
 		Url==jdbc:oracle:thin:@10.156.3.252/drportal
 		Driver==oracle.jdbc.OracleDriver
 		UserName==winner
-		Password==aac9r2GFHvQ=
+		Password==hsZtyIPFRCITKJUwmjNT4A==
 	PORTAL_63_promotion
 		Url==jdbc:oracle:thin:@10.156.3.252/drportal
 		Driver==oracle.jdbc.OracleDriver

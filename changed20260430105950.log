@@ -1,0 +1,462 @@
+	<changedlog>
+		<time>29/04/2026 09:48:53</time>
+		<logid>1777430862826</logid>
+		<user>system</user>
+		<threadid>1021</threadid>
+		<class>vnp.lottery.ImportTextFile</class>
+		<name>Import cdr Topups</name>
+		<param_name>Url</param_name>
+		<param_old_value>jdbc:oracle:thin:@//10.156.3.252:1521/drportal</param_old_value>
+		<param_new_value>jdbc:oracle:thin:@10.156.3.252:1521/drportal</param_new_value>
+	</changedlog>
+	<changedlog>
+		<time>30/04/2026 09:49:23</time>
+		<logid>1777517211923</logid>
+		<user>system</user>
+		<threadid>1020</threadid>
+		<class>vnp.lottery.DowloadFTPFileNew</class>
+		<name>Download CDR Topup</name>
+		<param_name>FTPServerURL</param_name>
+		<param_old_value>10.165.109.4</param_old_value>
+		<param_new_value>10.165.82.17</param_new_value>
+	</changedlog>
+	<changedlog>
+		<time>30/04/2026 09:49:23</time>
+		<logid>1777517211923</logid>
+		<user>system</user>
+		<threadid>1020</threadid>
+		<class>vnp.lottery.DowloadFTPFileNew</class>
+		<name>Download CDR Topup</name>
+		<param_name>FTPUsername</param_name>
+		<param_old_value>SR_7116_NCPT</param_old_value>
+		<param_new_value>tanhn</param_new_value>
+	</changedlog>
+	<changedlog>
+		<time>30/04/2026 09:49:23</time>
+		<logid>1777517211923</logid>
+		<user>system</user>
+		<threadid>1020</threadid>
+		<class>vnp.lottery.DowloadFTPFileNew</class>
+		<name>Download CDR Topup</name>
+		<param_name>FTPPassword</param_name>
+		<param_old_value>SR_7116</param_old_value>
+		<param_new_value>123456</param_new_value>
+	</changedlog>
+	<changedlog>
+		<time>30/04/2026 10:57:51</time>
+		<logid>1777521303433</logid>
+		<user>system</user>
+		<threadid>1021</threadid>
+		<class>vnp.lottery.CSVImpExt</class>
+		<name>Import cdr CSVImpExt</name>
+		<param_name>FieldList</param_name>
+		<param_old_value>1,2,3,4,5,6,7,8,9,10,11,12,13,14</param_old_value>
+		<param_new_value>SUBSCRIBER_NUMBERS,TIMESTAMP,AMOUNT,ACCALO,COS_NAME,COREBALANCE,TIMEEXT,,VOUCHER_SERIAL_NUMBER,,,STATUSK1C,STATUSK2C,STATUSPPA</param_new_value>
+	</changedlog>
+	<changedlog>
+		<time>30/04/2026 10:58:54</time>
+		<logid>1777521303434</logid>
+		<user>system</user>
+		<threadid>1021</threadid>
+		<class>vnp.lottery.CSVImpExt</class>
+		<name>Import cdr CSVImpExt</name>
+		<param_name>ManualConnect</param_name>
+		<param_old_value>Y</param_old_value>
+		<param_new_value></param_new_value>
+	</changedlog>
+	<changedlog>
+		<time>30/04/2026 10:58:54</time>
+		<logid>1777521303434</logid>
+		<user>system</user>
+		<threadid>1021</threadid>
+		<class>vnp.lottery.CSVImpExt</class>
+		<name>Import cdr CSVImpExt</name>
+		<param_name>DBUrl</param_name>
+		<param_old_value>jdbc:oracle:thin:@10.156.3.252:1521/drportal</param_old_value>
+		<param_new_value></param_new_value>
+	</changedlog>
+	<changedlog>
+		<time>30/04/2026 10:58:54</time>
+		<logid>1777521303434</logid>
+		<user>system</user>
+		<threadid>1021</threadid>
+		<class>vnp.lottery.CSVImpExt</class>
+		<name>Import cdr CSVImpExt</name>
+		<param_name>DBUserName</param_name>
+		<param_old_value>winner</param_old_value>
+		<param_new_value></param_new_value>
+	</changedlog>
+	<changedlog>
+		<time>30/04/2026 10:58:54</time>
+		<logid>1777521303434</logid>
+		<user>system</user>
+		<threadid>1021</threadid>
+		<class>vnp.lottery.CSVImpExt</class>
+		<name>Import cdr CSVImpExt</name>
+		<param_name>DBPassword</param_name>
+		<param_old_value>KMwebVNP$$1898</param_old_value>
+		<param_new_value></param_new_value>
+	</changedlog>
+	<changedlog>
+		<time>30/04/2026 10:58:54</time>
+		<logid>1777521303434</logid>
+		<user>system</user>
+		<threadid>1021</threadid>
+		<class>vnp.lottery.CSVImpExt</class>
+		<name>Import cdr CSVImpExt</name>
+		<param_name>ImportDir</param_name>
+		<param_old_value>CDR Topups</param_old_value>
+		<param_new_value></param_new_value>
+	</changedlog>
+	<changedlog>
+		<time>30/04/2026 10:58:54</time>
+		<logid>1777521303434</logid>
+		<user>system</user>
+		<threadid>1021</threadid>
+		<class>vnp.lottery.CSVImpExt</class>
+		<name>Import cdr CSVImpExt</name>
+		<param_name>ImportStyle</param_name>
+		<param_old_value>Directly</param_old_value>
+		<param_new_value></param_new_value>
+	</changedlog>
+	<changedlog>
+		<time>30/04/2026 10:58:54</time>
+		<logid>1777521303434</logid>
+		<user>system</user>
+		<threadid>1021</threadid>
+		<class>vnp.lottery.CSVImpExt</class>
+		<name>Import cdr CSVImpExt</name>
+		<param_name>BackupDir</param_name>
+		<param_old_value>CDR Topups/bk</param_old_value>
+		<param_new_value></param_new_value>
+	</changedlog>
+	<changedlog>
+		<time>30/04/2026 10:58:54</time>
+		<logid>1777521303434</logid>
+		<user>system</user>
+		<threadid>1021</threadid>
+		<class>vnp.lottery.CSVImpExt</class>
+		<name>Import cdr CSVImpExt</name>
+		<param_name>BackupStyle</param_name>
+		<param_old_value>Delete file</param_old_value>
+		<param_new_value></param_new_value>
+	</changedlog>
+	<changedlog>
+		<time>30/04/2026 10:58:54</time>
+		<logid>1777521303434</logid>
+		<user>system</user>
+		<threadid>1021</threadid>
+		<class>vnp.lottery.CSVImpExt</class>
+		<name>Import cdr CSVImpExt</name>
+		<param_name>ZipFileBackupStyle</param_name>
+		<param_old_value>Daily</param_old_value>
+		<param_new_value></param_new_value>
+	</changedlog>
+	<changedlog>
+		<time>30/04/2026 10:58:54</time>
+		<logid>1777521303434</logid>
+		<user>system</user>
+		<threadid>1021</threadid>
+		<class>vnp.lottery.CSVImpExt</class>
+		<name>Import cdr CSVImpExt</name>
+		<param_name>RejectDir</param_name>
+		<param_old_value>CDR Topups/rj</param_old_value>
+		<param_new_value></param_new_value>
+	</changedlog>
+	<changedlog>
+		<time>30/04/2026 10:58:54</time>
+		<logid>1777521303434</logid>
+		<user>system</user>
+		<threadid>1021</threadid>
+		<class>vnp.lottery.CSVImpExt</class>
+		<name>Import cdr CSVImpExt</name>
+		<param_name>RetryDir</param_name>
+		<param_old_value>CDR Topups/rt</param_old_value>
+		<param_new_value></param_new_value>
+	</changedlog>
+	<changedlog>
+		<time>30/04/2026 10:58:54</time>
+		<logid>1777521303434</logid>
+		<user>system</user>
+		<threadid>1021</threadid>
+		<class>vnp.lottery.CSVImpExt</class>
+		<name>Import cdr CSVImpExt</name>
+		<param_name>RejectStyle</param_name>
+		<param_old_value>Directly</param_old_value>
+		<param_new_value></param_new_value>
+	</changedlog>
+	<changedlog>
+		<time>30/04/2026 10:58:54</time>
+		<logid>1777521303434</logid>
+		<user>system</user>
+		<threadid>1021</threadid>
+		<class>vnp.lottery.CSVImpExt</class>
+		<name>Import cdr CSVImpExt</name>
+		<param_name>TempDir</param_name>
+		<param_old_value>CDR Topups/temp</param_old_value>
+		<param_new_value></param_new_value>
+	</changedlog>
+	<changedlog>
+		<time>30/04/2026 10:58:54</time>
+		<logid>1777521303434</logid>
+		<user>system</user>
+		<threadid>1021</threadid>
+		<class>vnp.lottery.CSVImpExt</class>
+		<name>Import cdr CSVImpExt</name>
+		<param_name>Wildcard</param_name>
+		<param_old_value>*.txt</param_old_value>
+		<param_new_value></param_new_value>
+	</changedlog>
+	<changedlog>
+		<time>30/04/2026 10:58:54</time>
+		<logid>1777521303434</logid>
+		<user>system</user>
+		<threadid>1021</threadid>
+		<class>vnp.lottery.CSVImpExt</class>
+		<name>Import cdr CSVImpExt</name>
+		<param_name>ZipFileWildcard</param_name>
+		<param_old_value>*.zip</param_old_value>
+		<param_new_value></param_new_value>
+	</changedlog>
+	<changedlog>
+		<time>30/04/2026 10:58:54</time>
+		<logid>1777521303434</logid>
+		<user>system</user>
+		<threadid>1021</threadid>
+		<class>vnp.lottery.CSVImpExt</class>
+		<name>Import cdr CSVImpExt</name>
+		<param_name>Compressed</param_name>
+		<param_old_value>Not compressed</param_old_value>
+		<param_new_value></param_new_value>
+	</changedlog>
+	<changedlog>
+		<time>30/04/2026 10:58:54</time>
+		<logid>1777521303434</logid>
+		<user>system</user>
+		<threadid>1021</threadid>
+		<class>vnp.lottery.CSVImpExt</class>
+		<name>Import cdr CSVImpExt</name>
+		<param_name>Header</param_name>
+		<param_old_value>N</param_old_value>
+		<param_new_value></param_new_value>
+	</changedlog>
+	<changedlog>
+		<time>30/04/2026 10:58:54</time>
+		<logid>1777521303434</logid>
+		<user>system</user>
+		<threadid>1021</threadid>
+		<class>vnp.lottery.CSVImpExt</class>
+		<name>Import cdr CSVImpExt</name>
+		<param_name>DateFormat</param_name>
+		<param_old_value></param_old_value>
+		<param_new_value></param_new_value>
+	</changedlog>
+	<changedlog>
+		<time>30/04/2026 10:58:54</time>
+		<logid>1777521303434</logid>
+		<user>system</user>
+		<threadid>1021</threadid>
+		<class>vnp.lottery.CSVImpExt</class>
+		<name>Import cdr CSVImpExt</name>
+		<param_name>ProcessDate</param_name>
+		<param_old_value></param_old_value>
+		<param_new_value></param_new_value>
+	</changedlog>
+	<changedlog>
+		<time>30/04/2026 10:58:54</time>
+		<logid>1777521303434</logid>
+		<user>system</user>
+		<threadid>1021</threadid>
+		<class>vnp.lottery.CSVImpExt</class>
+		<name>Import cdr CSVImpExt</name>
+		<param_name>LastProcessFile</param_name>
+		<param_old_value></param_old_value>
+		<param_new_value></param_new_value>
+	</changedlog>
+	<changedlog>
+		<time>30/04/2026 10:58:54</time>
+		<logid>1777521303434</logid>
+		<user>system</user>
+		<threadid>1021</threadid>
+		<class>vnp.lottery.CSVImpExt</class>
+		<name>Import cdr CSVImpExt</name>
+		<param_name>EOFSymbol</param_name>
+		<param_old_value>,</param_old_value>
+		<param_new_value></param_new_value>
+	</changedlog>
+	<changedlog>
+		<time>30/04/2026 10:58:54</time>
+		<logid>1777521303434</logid>
+		<user>system</user>
+		<threadid>1021</threadid>
+		<class>vnp.lottery.CSVImpExt</class>
+		<name>Import cdr CSVImpExt</name>
+		<param_name>EORSymbol</param_name>
+		<param_old_value>\\n</param_old_value>
+		<param_new_value></param_new_value>
+	</changedlog>
+	<changedlog>
+		<time>30/04/2026 10:58:54</time>
+		<logid>1777521303434</logid>
+		<user>system</user>
+		<threadid>1021</threadid>
+		<class>vnp.lottery.CSVImpExt</class>
+		<name>Import cdr CSVImpExt</name>
+		<param_name>FieldList</param_name>
+		<param_old_value>SUBSCRIBER_NUMBERS,TIMESTAMP,AMOUNT,ACCALO,COS_NAME,COREBALANCE,TIMEEXT,,VOUCHER_SERIAL_NUMBER,,,STATUSK1C,STATUSK2C,STATUSPPA</param_old_value>
+		<param_new_value></param_new_value>
+	</changedlog>
+	<changedlog>
+		<time>30/04/2026 10:58:54</time>
+		<logid>1777521303434</logid>
+		<user>system</user>
+		<threadid>1021</threadid>
+		<class>vnp.lottery.CSVImpExt</class>
+		<name>Import cdr CSVImpExt</name>
+		<param_name>SQLValidateCommand</param_name>
+		<param_old_value></param_old_value>
+		<param_new_value></param_new_value>
+	</changedlog>
+	<changedlog>
+		<time>30/04/2026 10:58:54</time>
+		<logid>1777521303434</logid>
+		<user>system</user>
+		<threadid>1021</threadid>
+		<class>vnp.lottery.CSVImpExt</class>
+		<name>Import cdr CSVImpExt</name>
+		<param_name>SQLCommand</param_name>
+		<param_old_value>insert into cdr_data_addon2(date_time,msisdn,service_code,cp_code,content_id,game_code,cp_trans_id,mo_content,mediatransid,spsrequestid,errorcode,price,volume,expire_date,file_name) values (to_date(substr(?,1,19),&apos;dd/mm/yyyy hh24:mi:ss&apos;),?,?,?,?,?,?,?,?,?,?,?,?,to_date(?,&apos;dd/mm/yyyy hh24:mi:ss&apos;),&apos;$FileName&apos;)</param_old_value>
+		<param_new_value></param_new_value>
+	</changedlog>
+	<changedlog>
+		<time>30/04/2026 10:58:54</time>
+		<logid>1777521303434</logid>
+		<user>system</user>
+		<threadid>1021</threadid>
+		<class>vnp.lottery.CSVImpExt</class>
+		<name>Import cdr CSVImpExt</name>
+		<param_name>SQLQueryFileIDCommand</param_name>
+		<param_old_value></param_old_value>
+		<param_new_value></param_new_value>
+	</changedlog>
+	<changedlog>
+		<time>30/04/2026 10:58:54</time>
+		<logid>1777521303434</logid>
+		<user>system</user>
+		<threadid>1021</threadid>
+		<class>vnp.lottery.CSVImpExt</class>
+		<name>Import cdr CSVImpExt</name>
+		<param_name>SQLPreCommand</param_name>
+		<param_old_value></param_old_value>
+		<param_new_value></param_new_value>
+	</changedlog>
+	<changedlog>
+		<time>30/04/2026 10:58:54</time>
+		<logid>1777521303434</logid>
+		<user>system</user>
+		<threadid>1021</threadid>
+		<class>vnp.lottery.CSVImpExt</class>
+		<name>Import cdr CSVImpExt</name>
+		<param_name>SQLPstCommand</param_name>
+		<param_old_value></param_old_value>
+		<param_new_value></param_new_value>
+	</changedlog>
+	<changedlog>
+		<time>30/04/2026 10:58:54</time>
+		<logid>1777521303434</logid>
+		<user>system</user>
+		<threadid>1021</threadid>
+		<class>vnp.lottery.CSVImpExt</class>
+		<name>Import cdr CSVImpExt</name>
+		<param_name>BatchSize</param_name>
+		<param_old_value>1000</param_old_value>
+		<param_new_value></param_new_value>
+	</changedlog>
+	<changedlog>
+		<time>30/04/2026 10:58:54</time>
+		<logid>1777521303434</logid>
+		<user>system</user>
+		<threadid>1021</threadid>
+		<class>vnp.lottery.CSVImpExt</class>
+		<name>Import cdr CSVImpExt</name>
+		<param_name>LogDir</param_name>
+		<param_old_value>log/impCSV</param_old_value>
+		<param_new_value></param_new_value>
+	</changedlog>
+	<changedlog>
+		<time>30/04/2026 10:58:54</time>
+		<logid>1777521303434</logid>
+		<user>system</user>
+		<threadid>1021</threadid>
+		<class>vnp.lottery.CSVImpExt</class>
+		<name>Import cdr CSVImpExt</name>
+		<param_name>Alert</param_name>
+		<param_old_value></param_old_value>
+		<param_new_value></param_new_value>
+	</changedlog>
+	<changedlog>
+		<time>30/04/2026 10:58:54</time>
+		<logid>1777521303434</logid>
+		<user>system</user>
+		<threadid>1021</threadid>
+		<class>vnp.lottery.CSVImpExt</class>
+		<name>Import cdr CSVImpExt</name>
+		<param_name>Debug</param_name>
+		<param_old_value></param_old_value>
+		<param_new_value></param_new_value>
+	</changedlog>
+	<changedlog>
+		<time>30/04/2026 10:58:54</time>
+		<logid>1777521303434</logid>
+		<user>system</user>
+		<threadid>1021</threadid>
+		<class>vnp.lottery.CSVImpExt</class>
+		<name>Import cdr CSVImpExt</name>
+		<param_name>LogDefinition</param_name>
+		<param_old_value>[]</param_old_value>
+		<param_new_value></param_new_value>
+	</changedlog>
+	<changedlog>
+		<time>30/04/2026 10:58:54</time>
+		<logid>1777521303434</logid>
+		<user>system</user>
+		<threadid>1021</threadid>
+		<class>vnp.lottery.CSVImpExt</class>
+		<name>Import cdr CSVImpExt</name>
+		<param_name>DelayTime</param_name>
+		<param_old_value>15</param_old_value>
+		<param_new_value></param_new_value>
+	</changedlog>
+	<changedlog>
+		<time>30/04/2026 10:58:54</time>
+		<logid>1777521303434</logid>
+		<user>system</user>
+		<threadid>1021</threadid>
+		<class>vnp.lottery.CSVImpExt</class>
+		<name>Import cdr CSVImpExt</name>
+		<param_name>NotificationInterval</param_name>
+		<param_old_value></param_old_value>
+		<param_new_value></param_new_value>
+	</changedlog>
+	<changedlog>
+		<time>30/04/2026 10:58:54</time>
+		<logid>1777521303434</logid>
+		<user>system</user>
+		<threadid>1021</threadid>
+		<class>vnp.lottery.CSVImpExt</class>
+		<name>Import cdr CSVImpExt</name>
+		<param_name>NotificationString</param_name>
+		<param_old_value></param_old_value>
+		<param_new_value></param_new_value>
+	</changedlog>
+	<changedlog>
+		<time>30/04/2026 10:58:54</time>
+		<logid>1777521303434</logid>
+		<user>system</user>
+		<threadid>1021</threadid>
+		<class>vnp.lottery.CSVImpExt</class>
+		<name>Import cdr CSVImpExt</name>
+		<param_name>ConnectDB</param_name>
+		<param_old_value></param_old_value>
+		<param_new_value></param_new_value>
+	</changedlog>

@@ -1,0 +1,43 @@
+Parameter
+	ManualConnect==Y
+	DBUrl==jdbc:oracle:thin:@10.156.3.252:1521/drportal
+	DBUserName==winner
+	DBPassword==KMwebVNP$$1898
+	ImportDir==CDR Topups
+	ImportStyle==Directly
+	BackupDir==CDR Topups/bk
+	BackupStyle==Delete file
+	ZipFileBackupStyle==Daily
+	RejectDir==CDR Topups/rj
+	RetryDir==CDR Topups/rt
+	RejectStyle==Directly
+	TempDir==CDR Topups/temp
+	Wildcard==*.txt
+	ZipFileWildcard==*.zip
+	Compressed==Not compressed
+	Header==N
+	DateFormat
+	ProcessDate
+	LastProcessFile==recharge.20221108-140518-928.txt
+	EOFSymbol==,
+	EORSymbol==\\n
+	FieldList==SUBSCRIBER_NUMBERS,TIMESTAMP,AMOUNT
+	SQLValidateCommand
+	SQLCommand==insert into topups (ID,SUBSCRIBER,TIMESTAMP,AMOUNT,insertdate,filename) values (seq_topup.NEXTVAL,?,to_date(?,'yyyy-mm-dd hh24:mi:ss'),?,sysdate,'$FileName')
+	SQLQueryFileIDCommand
+	SQLPreCommand
+	SQLPstCommand
+	BatchSize==1000
+	LogDir==log/impCSV
+	Alert
+	Debug
+	LogDefinition=^
+	DelayTime==15
+	NotificationInterval
+	NotificationString
+	ConnectDB
+ThreadName==Import cdr CSVImpExt
+ClassName==vnp.lottery.CSVImpExt
+StartupType==2
+Status==1
+Schedule

@@ -482,7 +482,7 @@ public class CSVImpExt extends DBManageableThread {
 		Vector vtRow = null;
 		int iBatchCount = 0;
 		int iMarkedIndex = 0;
-		is.mark(8388608);
+//		is.mark(8388608);
 
 		int i = 0;
 		String log = "";

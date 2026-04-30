@@ -36,7 +36,7 @@ public class ThreadViewQueue extends PortalThread {
 
 	@Override
 	public String getMyConnName() {
-		return "DBAPP_IOS";
+		return "PORTAL_63_promotion";
 	};
 
 	////////////////////////////////////////////////////////////////////////////

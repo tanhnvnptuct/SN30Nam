@@ -1,0 +1,94 @@
+30/04 10:55:16 Start importing file recharge.20221108-140518-928.txt
+30/04 10:55:16 Error occured
+	ORA-00942: table or view does not exist
+
+30/04 10:55:16 Immediate execution completed
+30/04 10:57:54 Start performing immediate execution
+30/04 10:57:54 Immediate execution completed
+30/04 10:58:14 Start performing immediate execution
+30/04 10:58:14 Start importing file recharge.20221108-140518-928.txt
+30/04 10:58:14 Error occured
+	ORA-00942: table or view does not exist
+
+30/04 10:58:14 Immediate execution completed
+30/04 10:59:00 Start performing immediate execution
+30/04 10:59:00 Immediate execution completed
+30/04 10:59:11 Start performing immediate execution
+30/04 10:59:11 Start importing file recharge.20221108-140518-928.txt
+30/04 10:59:11 Error occured
+	ORA-00942: table or view does not exist
+
+30/04 10:59:11 Immediate execution completed
+30/04 11:00:02 Start performing immediate execution
+30/04 11:00:02 Start importing file recharge.20221108-140518-928.txt
+30/04 11:00:02 Error occured
+	All records in file was rejected
+30/04 11:00:02 Immediate execution completed
+30/04 11:07:14 Start importing file recharge.20221108-140518-928.txt
+30/04 11:13:15 Start importing file recharge.20221108-140518-928.txt
+30/04 11:13:15 Error occured
+	ORA-00917: missing comma
+
+30/04 11:13:15 Immediate execution completed
+30/04 11:13:54 Start importing file recharge.20221108-140518-928.txt
+30/04 11:16:51 Error occured
+	ORA-00917: missing comma
+
+30/04 11:17:06 Immediate execution completed
+30/04 11:18:34 Start performing immediate execution
+30/04 11:18:39 Start importing file recharge.20221108-140518-928.txt
+30/04 11:18:40 Error occured
+	ORA-00917: missing comma
+
+30/04 11:18:40 Immediate execution completed
+30/04 11:26:16 Start performing immediate execution
+30/04 11:26:24 Start importing file recharge.20221108-140518-928.txt
+30/04 11:27:00 Importing file recharge.20221108-140518-928.txt completed
+	Total records:		1
+	Imported records:	1
+	Error records:		0
+30/04 11:27:00 Immediate execution completed
+30/04 11:28:26 Start importing file recharge.20221108-140518-928.txt
+30/04 11:28:26 Importing file recharge.20221108-140518-928.txt completed
+	Total records:		1
+	Imported records:	1
+	Error records:		0
+30/04 11:28:26 Immediate execution completed
+30/04 11:30:21 Start importing file recharge.20221108-140518-928.txt
+30/04 11:30:30 Importing file recharge.20221108-140518-928.txt completed
+	Total records:		1
+	Imported records:	1
+	Error records:		0
+30/04 11:30:30 Immediate execution completed
+30/04 11:32:27 Start performing immediate execution
+30/04 11:32:27 Start importing file recharge.20221108-140518-928.txt
+30/04 11:33:24 Importing file recharge.20221108-140518-928.txt completed
+	Total records:		1
+	Imported records:	1
+	Error records:		0
+30/04 11:33:24 Immediate execution completed
+30/04 11:33:50 Start performing immediate execution
+30/04 11:33:50 Start importing file recharge.20221108-140518-928.txt
+30/04 11:35:56 Importing file recharge.20221108-140518-928.txt completed
+	Total records:		1
+	Imported records:	1
+	Error records:		0
+30/04 11:35:56 Immediate execution completed
+30/04 11:40:29 Start importing file recharge.20221108-140518-928.txt
+30/04 11:40:29 Error occured
+	-1
+30/04 11:40:29 Immediate execution completed
+30/04 11:40:46 Start performing immediate execution
+30/04 11:40:46 Start importing file recharge.20221108-140518-928.txt
+30/04 11:40:46 Importing file recharge.20221108-140518-928.txt completed
+	Total records:		42
+	Imported records:	42
+	Error records:		0
+30/04 11:40:46 Immediate execution completed
+30/04 11:46:21 Start performing immediate execution
+30/04 11:46:21 Start importing file recharge.20221108-140518-928.txt
+30/04 11:46:22 Importing file recharge.20221108-140518-928.txt completed
+	Total records:		42
+	Imported records:	42
+	Error records:		0
+30/04 11:46:22 Immediate execution completed
