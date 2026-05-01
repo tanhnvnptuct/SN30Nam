@@ -1,0 +1,16 @@
+ThreadName==SMSMTSync
+ClassName==vnp.lottery.SMSMTSync
+StartupType==2
+Status==1
+Parameter
+	cfg_sms_key==SMS_NUMBER
+	cfg_sms_code1==SMS_MDT1
+	cfg_sms_coden==SMS_MDTN
+	campaign_id==475
+	LogDir==log/smsmdtsync
+	LogDefinition
+	DelayTime==30
+	NotificationInterval
+	NotificationString
+	testing_mode==N
+Schedule

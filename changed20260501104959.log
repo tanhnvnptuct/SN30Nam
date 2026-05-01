@@ -1,0 +1,275 @@
+	<changedlog>
+		<time>30/04/2026 10:59:50</time>
+		<logid>1777521303435</logid>
+		<user>system</user>
+		<threadid>1021</threadid>
+		<class>vnp.lottery.CSVImpExt</class>
+		<name>Import cdr CSVImpExt</name>
+		<param_name>SQLCommand</param_name>
+		<param_old_value>insert into cdr_data_addon2(date_time,msisdn,service_code,cp_code,content_id,game_code,cp_trans_id,mo_content,mediatransid,spsrequestid,errorcode,price,volume,expire_date,file_name) values (to_date(substr(?,1,19),&apos;dd/mm/yyyy hh24:mi:ss&apos;),?,?,?,?,?,?,?,?,?,?,?,?,to_date(?,&apos;dd/mm/yyyy hh24:mi:ss&apos;),&apos;$FileName&apos;)</param_old_value>
+		<param_new_value>insert into topups (ID,SUBSCRIBER,TIMESTAMP,AMOUNT,ACCALO,insertdate,filename) values (seq_topup.NEXTVAL,?,to_date(?,&apos;yyyy-mm-dd hh24:mi:ss&apos;),?,?,sysdate,$FileName)</param_new_value>
+	</changedlog>
+	<changedlog>
+		<time>30/04/2026 11:12:58</time>
+		<logid>1777522362565</logid>
+		<user>system</user>
+		<threadid>1021</threadid>
+		<class>vnp.lottery.CSVImpExt</class>
+		<name>Import cdr CSVImpExt</name>
+		<param_name>FieldList</param_name>
+		<param_old_value>SUBSCRIBER_NUMBERS,TIMESTAMP,AMOUNT,ACCALO,COS_NAME,COREBALANCE,TIMEEXT,,VOUCHER_SERIAL_NUMBER,,,STATUSK1C,STATUSK2C,STATUSPPA</param_old_value>
+		<param_new_value>SUBSCRIBER_NUMBERS,TIMESTAMP,AMOUNT,ACCALO</param_new_value>
+	</changedlog>
+	<changedlog>
+		<time>30/04/2026 11:18:23</time>
+		<logid>1777522423335</logid>
+		<user>system</user>
+		<threadid>1021</threadid>
+		<class>vnp.lottery.CSVImpExt</class>
+		<name>Import cdr CSVImpExt</name>
+		<param_name>FieldList</param_name>
+		<param_old_value>SUBSCRIBER_NUMBERS,TIMESTAMP,AMOUNT,ACCALO</param_old_value>
+		<param_new_value>SUBSCRIBER_NUMBERS,TIMESTAMP,AMOUNT</param_new_value>
+	</changedlog>
+	<changedlog>
+		<time>30/04/2026 11:18:23</time>
+		<logid>1777522423335</logid>
+		<user>system</user>
+		<threadid>1021</threadid>
+		<class>vnp.lottery.CSVImpExt</class>
+		<name>Import cdr CSVImpExt</name>
+		<param_name>SQLCommand</param_name>
+		<param_old_value>insert into topups (ID,SUBSCRIBER,TIMESTAMP,AMOUNT,ACCALO,insertdate,filename) values (seq_topup.NEXTVAL,?,to_date(?,&apos;yyyy-mm-dd hh24:mi:ss&apos;),?,?,sysdate,$FileName)</param_old_value>
+		<param_new_value>insert into topups (ID,SUBSCRIBER,TIMESTAMP,AMOUNT,insertdate,filename) values (seq_topup.NEXTVAL,?,to_date(?,&apos;yyyy-mm-dd hh24:mi:ss&apos;),?,sysdate,$FileName)</param_new_value>
+	</changedlog>
+	<changedlog>
+		<time>30/04/2026 11:26:05</time>
+		<logid>1777522423336</logid>
+		<user>system</user>
+		<threadid>1021</threadid>
+		<class>vnp.lottery.CSVImpExt</class>
+		<name>Import cdr CSVImpExt</name>
+		<param_name>SQLCommand</param_name>
+		<param_old_value>insert into topups (ID,SUBSCRIBER,TIMESTAMP,AMOUNT,insertdate,filename) values (seq_topup.NEXTVAL,?,to_date(?,&apos;yyyy-mm-dd hh24:mi:ss&apos;),?,sysdate,$FileName)</param_old_value>
+		<param_new_value>insert into topups (ID,SUBSCRIBER,TIMESTAMP,AMOUNT,insertdate,filename) values (seq_topup.NEXTVAL,?,to_date(?,&apos;yyyy-mm-dd hh24:mi:ss&apos;),?,sysdate,&apos;$FileName&apos;)</param_new_value>
+	</changedlog>
+	<changedlog>
+		<time>30/04/2026 11:40:00</time>
+		<logid>1777523406177</logid>
+		<user>system</user>
+		<threadid>1021</threadid>
+		<class>vnp.lottery.CSVImpExt</class>
+		<name>Import cdr CSVImpExt</name>
+		<param_name>EORSymbol</param_name>
+		<param_old_value>\\n</param_old_value>
+		<param_new_value>\r\n</param_new_value>
+	</changedlog>
+	<changedlog>
+		<time>30/04/2026 11:40:41</time>
+		<logid>1777524013748</logid>
+		<user>system</user>
+		<threadid>1021</threadid>
+		<class>vnp.lottery.CSVImpExt</class>
+		<name>Import cdr CSVImpExt</name>
+		<param_name>EORSymbol</param_name>
+		<param_old_value>\r\n</param_old_value>
+		<param_new_value>\n</param_new_value>
+	</changedlog>
+	<changedlog>
+		<time>30/04/2026 11:47:51</time>
+		<logid>1777524013749</logid>
+		<user>system</user>
+		<threadid>1022</threadid>
+		<class>vnp.lottery.CardTopup</class>
+		<name>CardTopup</name>
+		<param_name>lastSeq</param_name>
+		<param_old_value></param_old_value>
+		<param_new_value>47332795</param_new_value>
+	</changedlog>
+	<changedlog>
+		<time>30/04/2026 11:47:51</time>
+		<logid>1777524013749</logid>
+		<user>system</user>
+		<threadid>1022</threadid>
+		<class>vnp.lottery.CardTopup</class>
+		<name>CardTopup</name>
+		<param_name>amount_per_code</param_name>
+		<param_old_value></param_old_value>
+		<param_new_value>30000</param_new_value>
+	</changedlog>
+	<changedlog>
+		<time>30/04/2026 11:47:51</time>
+		<logid>1777524013749</logid>
+		<user>system</user>
+		<threadid>1022</threadid>
+		<class>vnp.lottery.CardTopup</class>
+		<name>CardTopup</name>
+		<param_name>msg_invite</param_name>
+		<param_old_value></param_old_value>
+		<param_new_value></param_new_value>
+	</changedlog>
+	<changedlog>
+		<time>30/04/2026 11:47:51</time>
+		<logid>1777524013749</logid>
+		<user>system</user>
+		<threadid>1022</threadid>
+		<class>vnp.lottery.CardTopup</class>
+		<name>CardTopup</name>
+		<param_name>LogDir</param_name>
+		<param_old_value></param_old_value>
+		<param_new_value>log/cardtopup</param_new_value>
+	</changedlog>
+	<changedlog>
+		<time>30/04/2026 11:47:51</time>
+		<logid>1777524013749</logid>
+		<user>system</user>
+		<threadid>1022</threadid>
+		<class>vnp.lottery.CardTopup</class>
+		<name>CardTopup</name>
+		<param_name>LogDefinition</param_name>
+		<param_old_value></param_old_value>
+		<param_new_value></param_new_value>
+	</changedlog>
+	<changedlog>
+		<time>30/04/2026 11:47:51</time>
+		<logid>1777524013749</logid>
+		<user>system</user>
+		<threadid>1022</threadid>
+		<class>vnp.lottery.CardTopup</class>
+		<name>CardTopup</name>
+		<param_name>DelayTime</param_name>
+		<param_old_value></param_old_value>
+		<param_new_value>10</param_new_value>
+	</changedlog>
+	<changedlog>
+		<time>30/04/2026 11:47:51</time>
+		<logid>1777524013749</logid>
+		<user>system</user>
+		<threadid>1022</threadid>
+		<class>vnp.lottery.CardTopup</class>
+		<name>CardTopup</name>
+		<param_name>NotificationInterval</param_name>
+		<param_old_value></param_old_value>
+		<param_new_value></param_new_value>
+	</changedlog>
+	<changedlog>
+		<time>30/04/2026 11:47:51</time>
+		<logid>1777524013749</logid>
+		<user>system</user>
+		<threadid>1022</threadid>
+		<class>vnp.lottery.CardTopup</class>
+		<name>CardTopup</name>
+		<param_name>NotificationString</param_name>
+		<param_old_value></param_old_value>
+		<param_new_value></param_new_value>
+	</changedlog>
+	<changedlog>
+		<time>30/04/2026 11:47:51</time>
+		<logid>1777524013749</logid>
+		<user>system</user>
+		<threadid>1022</threadid>
+		<class>vnp.lottery.CardTopup</class>
+		<name>CardTopup</name>
+		<param_name>testing_mode</param_name>
+		<param_old_value></param_old_value>
+		<param_new_value>Y</param_new_value>
+	</changedlog>
+	<changedlog>
+		<time>30/04/2026 11:50:08</time>
+		<logid>1777524013750</logid>
+		<user>system</user>
+		<threadid>1022</threadid>
+		<class>vnp.lottery.CardTopup</class>
+		<name>CardTopup</name>
+		<param_name>lastSeq</param_name>
+		<param_old_value>47332837</param_old_value>
+		<param_new_value>47322837</param_new_value>
+	</changedlog>
+	<changedlog>
+		<time>30/04/2026 11:51:49</time>
+		<logid>1777524013751</logid>
+		<user>system</user>
+		<threadid>1022</threadid>
+		<class>vnp.lottery.CardTopup</class>
+		<name>CardTopup</name>
+		<param_name>lastSeq</param_name>
+		<param_old_value>47332837</param_old_value>
+		<param_new_value>47330837</param_new_value>
+	</changedlog>
+	<changedlog>
+		<time>30/04/2026 11:55:04</time>
+		<logid>1777524875518</logid>
+		<user>system</user>
+		<threadid>1022</threadid>
+		<class>vnp.lottery.CardTopup</class>
+		<name>CardTopup</name>
+		<param_name>lastSeq</param_name>
+		<param_old_value>47332837</param_old_value>
+		<param_new_value>47302837</param_new_value>
+	</changedlog>
+	<changedlog>
+		<time>01/05/2026 10:33:50</time>
+		<logid>1777605986958</logid>
+		<user>system</user>
+		<threadid>1021</threadid>
+		<class>vnp.lottery.LotteryCode_ver2</class>
+		<name>LotteryCode_ver2</name>
+		<param_name>api_gencode_url</param_name>
+		<param_old_value>http://10.149.248.19:8080/api/Lottery/GenCodesOff</param_old_value>
+		<param_new_value>http://10.165.82.17:8080/api/Lottery/GenCodesOff</param_new_value>
+	</changedlog>
+	<changedlog>
+		<time>01/05/2026 10:33:50</time>
+		<logid>1777605986958</logid>
+		<user>system</user>
+		<threadid>1021</threadid>
+		<class>vnp.lottery.LotteryCode_ver2</class>
+		<name>LotteryCode_ver2</name>
+		<param_name>campaignId</param_name>
+		<param_old_value>475</param_old_value>
+		<param_new_value>486</param_new_value>
+	</changedlog>
+	<changedlog>
+		<time>01/05/2026 10:33:50</time>
+		<logid>1777605986958</logid>
+		<user>system</user>
+		<threadid>1021</threadid>
+		<class>vnp.lottery.LotteryCode_ver2</class>
+		<name>LotteryCode_ver2</name>
+		<param_name>DelayTime</param_name>
+		<param_old_value>30</param_old_value>
+		<param_new_value>10</param_new_value>
+	</changedlog>
+	<changedlog>
+		<time>01/05/2026 10:35:20</time>
+		<logid>1777605986959</logid>
+		<user>system</user>
+		<threadid>1012</threadid>
+		<class>vnp.lottery.CardTopup</class>
+		<name>CardTopup</name>
+		<param_name>lastSeq</param_name>
+		<param_old_value>47332837</param_old_value>
+		<param_new_value>47302837</param_new_value>
+	</changedlog>
+	<changedlog>
+		<time>01/05/2026 10:47:52</time>
+		<logid>1777607254694</logid>
+		<user>system</user>
+		<threadid>1012</threadid>
+		<class>vnp.lottery.CardTopup</class>
+		<name>CardTopup</name>
+		<param_name>lastSeq</param_name>
+		<param_old_value>47332837</param_old_value>
+		<param_new_value>47331837</param_new_value>
+	</changedlog>
+	<changedlog>
+		<time>01/05/2026 10:49:10</time>
+		<logid>1777607327245</logid>
+		<user>system</user>
+		<threadid>1012</threadid>
+		<class>vnp.lottery.CardTopup</class>
+		<name>CardTopup</name>
+		<param_name>lastSeq</param_name>
+		<param_old_value>47332837</param_old_value>
+		<param_new_value>47332637</param_new_value>
+	</changedlog>

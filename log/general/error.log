@@ -1485,3 +1485,658 @@ java.lang.NoSuchMethodException: smartlib.thread.ThreadProcessor.getSystemInfo()
 	at smartlib.transport.SocketServer.run(SocketServer.java:83)
 	at java.lang.Thread.run(Thread.java:748)
 
+01/05 09:42:05 May 01, 2026 9:42:05 AM smartlib.thread.ThreadManager loadThread
+SEVERE: Unable to load thread, class not found :vnp.lottery.LotteryCode_ver2
+01/05 09:42:15 May 01, 2026 9:42:15 AM smartlib.thread.ThreadManager loadThread
+SEVERE: Unable to load thread, class not found :vnp.lottery.LotteryCode_ver2
+01/05 09:42:25 May 01, 2026 9:42:25 AM smartlib.thread.ThreadManager loadThread
+SEVERE: Unable to load thread, class not found :vnp.lottery.LotteryCode_ver2
+01/05 09:42:35 May 01, 2026 9:42:35 AM smartlib.thread.ThreadManager loadThread
+SEVERE: Unable to load thread, class not found :vnp.lottery.LotteryCode_ver2
+01/05 09:42:45 May 01, 2026 9:42:45 AM smartlib.thread.ThreadManager loadThread
+SEVERE: Unable to load thread, class not found :vnp.lottery.LotteryCode_ver2
+01/05 09:42:55 May 01, 2026 9:42:55 AM smartlib.thread.ThreadManager loadThread
+SEVERE: Unable to load thread, class not found :vnp.lottery.LotteryCode_ver2
+01/05 09:43:05 May 01, 2026 9:43:05 AM smartlib.thread.ThreadManager loadThread
+SEVERE: Unable to load thread, class not found :vnp.lottery.LotteryCode_ver2
+01/05 09:43:15 May 01, 2026 9:43:15 AM smartlib.thread.ThreadManager loadThread
+SEVERE: Unable to load thread, class not found :vnp.lottery.LotteryCode_ver2
+01/05 09:43:25 May 01, 2026 9:43:25 AM smartlib.thread.ThreadManager loadThread
+SEVERE: Unable to load thread, class not found :vnp.lottery.LotteryCode_ver2
+01/05 09:43:35 May 01, 2026 9:43:35 AM smartlib.thread.ThreadManager loadThread
+SEVERE: Unable to load thread, class not found :vnp.lottery.LotteryCode_ver2
+01/05 09:43:45 May 01, 2026 9:43:45 AM smartlib.thread.ThreadManager loadThread
+SEVERE: Unable to load thread, class not found :vnp.lottery.LotteryCode_ver2
+01/05 09:43:55 May 01, 2026 9:43:55 AM smartlib.thread.ThreadManager loadThread
+SEVERE: Unable to load thread, class not found :vnp.lottery.LotteryCode_ver2
+01/05 09:44:05 May 01, 2026 9:44:05 AM smartlib.thread.ThreadManager loadThread
+SEVERE: Unable to load thread, class not found :vnp.lottery.LotteryCode_ver2
+01/05 09:44:15 May 01, 2026 9:44:15 AM smartlib.thread.ThreadManager loadThread
+SEVERE: Unable to load thread, class not found :vnp.lottery.LotteryCode_ver2
+01/05 09:44:25 May 01, 2026 9:44:25 AM smartlib.thread.ThreadManager loadThread
+SEVERE: Unable to load thread, class not found :vnp.lottery.LotteryCode_ver2
+01/05 09:44:35 May 01, 2026 9:44:35 AM smartlib.thread.ThreadManager loadThread
+SEVERE: Unable to load thread, class not found :vnp.lottery.LotteryCode_ver2
+01/05 09:44:45 May 01, 2026 9:44:45 AM smartlib.thread.ThreadManager loadThread
+SEVERE: Unable to load thread, class not found :vnp.lottery.LotteryCode_ver2
+01/05 09:44:55 May 01, 2026 9:44:55 AM smartlib.thread.ThreadManager loadThread
+SEVERE: Unable to load thread, class not found :vnp.lottery.LotteryCode_ver2
+01/05 09:45:05 May 01, 2026 9:45:05 AM smartlib.thread.ThreadManager loadThread
+SEVERE: Unable to load thread, class not found :vnp.lottery.LotteryCode_ver2
+01/05 09:45:15 May 01, 2026 9:45:15 AM smartlib.thread.ThreadManager loadThread
+SEVERE: Unable to load thread, class not found :vnp.lottery.LotteryCode_ver2
+01/05 09:45:25 May 01, 2026 9:45:25 AM smartlib.thread.ThreadManager loadThread
+SEVERE: Unable to load thread, class not found :vnp.lottery.LotteryCode_ver2
+01/05 09:45:35 May 01, 2026 9:45:35 AM smartlib.thread.ThreadManager loadThread
+SEVERE: Unable to load thread, class not found :vnp.lottery.LotteryCode_ver2
+01/05 09:45:45 May 01, 2026 9:45:45 AM smartlib.thread.ThreadManager loadThread
+SEVERE: Unable to load thread, class not found :vnp.lottery.LotteryCode_ver2
+01/05 09:45:55 May 01, 2026 9:45:55 AM smartlib.thread.ThreadManager loadThread
+SEVERE: Unable to load thread, class not found :vnp.lottery.LotteryCode_ver2
+01/05 09:46:05 May 01, 2026 9:46:05 AM smartlib.thread.ThreadManager loadThread
+SEVERE: Unable to load thread, class not found :vnp.lottery.LotteryCode_ver2
+01/05 09:46:15 May 01, 2026 9:46:15 AM smartlib.thread.ThreadManager loadThread
+SEVERE: Unable to load thread, class not found :vnp.lottery.LotteryCode_ver2
+01/05 09:46:26 May 01, 2026 9:46:26 AM smartlib.thread.ThreadManager loadThread
+SEVERE: Unable to load thread, class not found :vnp.lottery.LotteryCode_ver2
+01/05 09:46:36 May 01, 2026 9:46:36 AM smartlib.thread.ThreadManager loadThread
+SEVERE: Unable to load thread, class not found :vnp.lottery.LotteryCode_ver2
+01/05 09:46:46 May 01, 2026 9:46:46 AM smartlib.thread.ThreadManager loadThread
+SEVERE: Unable to load thread, class not found :vnp.lottery.LotteryCode_ver2
+01/05 09:46:56 May 01, 2026 9:46:56 AM smartlib.thread.ThreadManager loadThread
+SEVERE: Unable to load thread, class not found :vnp.lottery.LotteryCode_ver2
+01/05 09:47:06 May 01, 2026 9:47:06 AM smartlib.thread.ThreadManager loadThread
+SEVERE: Unable to load thread, class not found :vnp.lottery.LotteryCode_ver2
+01/05 09:47:16 May 01, 2026 9:47:16 AM smartlib.thread.ThreadManager loadThread
+SEVERE: Unable to load thread, class not found :vnp.lottery.LotteryCode_ver2
+01/05 09:47:26 May 01, 2026 9:47:26 AM smartlib.thread.ThreadManager loadThread
+SEVERE: Unable to load thread, class not found :vnp.lottery.LotteryCode_ver2
+01/05 09:47:36 May 01, 2026 9:47:36 AM smartlib.thread.ThreadManager loadThread
+SEVERE: Unable to load thread, class not found :vnp.lottery.LotteryCode_ver2
+01/05 09:47:46 May 01, 2026 9:47:46 AM smartlib.thread.ThreadManager loadThread
+SEVERE: Unable to load thread, class not found :vnp.lottery.LotteryCode_ver2
+01/05 09:47:56 May 01, 2026 9:47:56 AM smartlib.thread.ThreadManager loadThread
+SEVERE: Unable to load thread, class not found :vnp.lottery.LotteryCode_ver2
+01/05 09:48:06 May 01, 2026 9:48:06 AM smartlib.thread.ThreadManager loadThread
+SEVERE: Unable to load thread, class not found :vnp.lottery.LotteryCode_ver2
+01/05 09:48:16 May 01, 2026 9:48:16 AM smartlib.thread.ThreadManager loadThread
+SEVERE: Unable to load thread, class not found :vnp.lottery.LotteryCode_ver2
+01/05 09:48:26 May 01, 2026 9:48:26 AM smartlib.thread.ThreadManager loadThread
+SEVERE: Unable to load thread, class not found :vnp.lottery.LotteryCode_ver2
+01/05 09:48:36 May 01, 2026 9:48:36 AM smartlib.thread.ThreadManager loadThread
+SEVERE: Unable to load thread, class not found :vnp.lottery.LotteryCode_ver2
+01/05 09:48:46 May 01, 2026 9:48:46 AM smartlib.thread.ThreadManager loadThread
+SEVERE: Unable to load thread, class not found :vnp.lottery.LotteryCode_ver2
+01/05 09:48:56 May 01, 2026 9:48:56 AM smartlib.thread.ThreadManager loadThread
+SEVERE: Unable to load thread, class not found :vnp.lottery.LotteryCode_ver2
+01/05 09:49:06 May 01, 2026 9:49:06 AM smartlib.thread.ThreadManager loadThread
+SEVERE: Unable to load thread, class not found :vnp.lottery.LotteryCode_ver2
+01/05 09:49:16 May 01, 2026 9:49:16 AM smartlib.thread.ThreadManager loadThread
+SEVERE: Unable to load thread, class not found :vnp.lottery.LotteryCode_ver2
+01/05 09:49:26 May 01, 2026 9:49:26 AM smartlib.thread.ThreadManager loadThread
+SEVERE: Unable to load thread, class not found :vnp.lottery.LotteryCode_ver2
+01/05 09:49:36 May 01, 2026 9:49:36 AM smartlib.thread.ThreadManager loadThread
+SEVERE: Unable to load thread, class not found :vnp.lottery.LotteryCode_ver2
+01/05 09:49:46 May 01, 2026 9:49:46 AM smartlib.thread.ThreadManager loadThread
+SEVERE: Unable to load thread, class not found :vnp.lottery.LotteryCode_ver2
+01/05 09:49:56 May 01, 2026 9:49:56 AM smartlib.thread.ThreadManager loadThread
+SEVERE: Unable to load thread, class not found :vnp.lottery.LotteryCode_ver2
+01/05 09:50:06 May 01, 2026 9:50:06 AM smartlib.thread.ThreadManager loadThread
+SEVERE: Unable to load thread, class not found :vnp.lottery.LotteryCode_ver2
+01/05 09:50:16 May 01, 2026 9:50:16 AM smartlib.thread.ThreadManager loadThread
+SEVERE: Unable to load thread, class not found :vnp.lottery.LotteryCode_ver2
+01/05 09:50:26 May 01, 2026 9:50:26 AM smartlib.thread.ThreadManager loadThread
+SEVERE: Unable to load thread, class not found :vnp.lottery.LotteryCode_ver2
+01/05 09:50:36 May 01, 2026 9:50:36 AM smartlib.thread.ThreadManager loadThread
+SEVERE: Unable to load thread, class not found :vnp.lottery.LotteryCode_ver2
+01/05 09:50:46 May 01, 2026 9:50:46 AM smartlib.thread.ThreadManager loadThread
+SEVERE: Unable to load thread, class not found :vnp.lottery.LotteryCode_ver2
+01/05 09:50:56 May 01, 2026 9:50:56 AM smartlib.thread.ThreadManager loadThread
+SEVERE: Unable to load thread, class not found :vnp.lottery.LotteryCode_ver2
+01/05 09:51:06 May 01, 2026 9:51:06 AM smartlib.thread.ThreadManager loadThread
+SEVERE: Unable to load thread, class not found :vnp.lottery.LotteryCode_ver2
+01/05 09:51:16 May 01, 2026 9:51:16 AM smartlib.thread.ThreadManager loadThread
+SEVERE: Unable to load thread, class not found :vnp.lottery.LotteryCode_ver2
+01/05 09:51:26 May 01, 2026 9:51:26 AM smartlib.thread.ThreadManager loadThread
+SEVERE: Unable to load thread, class not found :vnp.lottery.LotteryCode_ver2
+01/05 09:51:36 May 01, 2026 9:51:36 AM smartlib.thread.ThreadManager loadThread
+SEVERE: Unable to load thread, class not found :vnp.lottery.LotteryCode_ver2
+01/05 09:51:46 May 01, 2026 9:51:46 AM smartlib.thread.ThreadManager loadThread
+SEVERE: Unable to load thread, class not found :vnp.lottery.LotteryCode_ver2
+01/05 09:51:56 May 01, 2026 9:51:56 AM smartlib.thread.ThreadManager loadThread
+SEVERE: Unable to load thread, class not found :vnp.lottery.LotteryCode_ver2
+01/05 09:52:06 May 01, 2026 9:52:06 AM smartlib.thread.ThreadManager loadThread
+SEVERE: Unable to load thread, class not found :vnp.lottery.LotteryCode_ver2
+01/05 09:52:16 May 01, 2026 9:52:16 AM smartlib.thread.ThreadManager loadThread
+SEVERE: Unable to load thread, class not found :vnp.lottery.LotteryCode_ver2
+01/05 09:52:26 May 01, 2026 9:52:26 AM smartlib.thread.ThreadManager loadThread
+SEVERE: Unable to load thread, class not found :vnp.lottery.LotteryCode_ver2
+01/05 09:52:36 May 01, 2026 9:52:36 AM smartlib.thread.ThreadManager loadThread
+SEVERE: Unable to load thread, class not found :vnp.lottery.LotteryCode_ver2
+01/05 09:52:46 May 01, 2026 9:52:46 AM smartlib.thread.ThreadManager loadThread
+SEVERE: Unable to load thread, class not found :vnp.lottery.LotteryCode_ver2
+01/05 09:52:56 May 01, 2026 9:52:56 AM smartlib.thread.ThreadManager loadThread
+SEVERE: Unable to load thread, class not found :vnp.lottery.LotteryCode_ver2
+01/05 09:53:06 May 01, 2026 9:53:06 AM smartlib.thread.ThreadManager loadThread
+SEVERE: Unable to load thread, class not found :vnp.lottery.LotteryCode_ver2
+01/05 09:53:16 May 01, 2026 9:53:16 AM smartlib.thread.ThreadManager loadThread
+SEVERE: Unable to load thread, class not found :vnp.lottery.LotteryCode_ver2
+01/05 09:53:26 May 01, 2026 9:53:26 AM smartlib.thread.ThreadManager loadThread
+SEVERE: Unable to load thread, class not found :vnp.lottery.LotteryCode_ver2
+01/05 09:53:36 May 01, 2026 9:53:36 AM smartlib.thread.ThreadManager loadThread
+SEVERE: Unable to load thread, class not found :vnp.lottery.LotteryCode_ver2
+01/05 09:53:46 May 01, 2026 9:53:46 AM smartlib.thread.ThreadManager loadThread
+SEVERE: Unable to load thread, class not found :vnp.lottery.LotteryCode_ver2
+01/05 09:53:56 May 01, 2026 9:53:56 AM smartlib.thread.ThreadManager loadThread
+SEVERE: Unable to load thread, class not found :vnp.lottery.LotteryCode_ver2
+01/05 09:54:06 May 01, 2026 9:54:06 AM smartlib.thread.ThreadManager loadThread
+SEVERE: Unable to load thread, class not found :vnp.lottery.LotteryCode_ver2
+01/05 09:54:16 May 01, 2026 9:54:16 AM smartlib.thread.ThreadManager loadThread
+SEVERE: Unable to load thread, class not found :vnp.lottery.LotteryCode_ver2
+01/05 09:54:26 May 01, 2026 9:54:26 AM smartlib.thread.ThreadManager loadThread
+SEVERE: Unable to load thread, class not found :vnp.lottery.LotteryCode_ver2
+01/05 09:54:36 May 01, 2026 9:54:36 AM smartlib.thread.ThreadManager loadThread
+SEVERE: Unable to load thread, class not found :vnp.lottery.LotteryCode_ver2
+01/05 09:54:46 May 01, 2026 9:54:46 AM smartlib.thread.ThreadManager loadThread
+SEVERE: Unable to load thread, class not found :vnp.lottery.LotteryCode_ver2
+01/05 09:54:56 May 01, 2026 9:54:56 AM smartlib.thread.ThreadManager loadThread
+SEVERE: Unable to load thread, class not found :vnp.lottery.LotteryCode_ver2
+01/05 09:55:06 May 01, 2026 9:55:06 AM smartlib.thread.ThreadManager loadThread
+SEVERE: Unable to load thread, class not found :vnp.lottery.LotteryCode_ver2
+01/05 09:55:16 May 01, 2026 9:55:16 AM smartlib.thread.ThreadManager loadThread
+SEVERE: Unable to load thread, class not found :vnp.lottery.LotteryCode_ver2
+01/05 09:55:26 May 01, 2026 9:55:26 AM smartlib.thread.ThreadManager loadThread
+SEVERE: Unable to load thread, class not found :vnp.lottery.LotteryCode_ver2
+01/05 09:55:36 May 01, 2026 9:55:36 AM smartlib.thread.ThreadManager loadThread
+SEVERE: Unable to load thread, class not found :vnp.lottery.LotteryCode_ver2
+01/05 09:55:46 May 01, 2026 9:55:46 AM smartlib.thread.ThreadManager loadThread
+SEVERE: Unable to load thread, class not found :vnp.lottery.LotteryCode_ver2
+01/05 09:55:56 May 01, 2026 9:55:56 AM smartlib.thread.ThreadManager loadThread
+SEVERE: Unable to load thread, class not found :vnp.lottery.LotteryCode_ver2
+01/05 09:56:06 May 01, 2026 9:56:06 AM smartlib.thread.ThreadManager loadThread
+SEVERE: Unable to load thread, class not found :vnp.lottery.LotteryCode_ver2
+01/05 09:56:16 May 01, 2026 9:56:16 AM smartlib.thread.ThreadManager loadThread
+SEVERE: Unable to load thread, class not found :vnp.lottery.LotteryCode_ver2
+01/05 09:56:26 May 01, 2026 9:56:26 AM smartlib.thread.ThreadManager loadThread
+SEVERE: Unable to load thread, class not found :vnp.lottery.LotteryCode_ver2
+01/05 09:56:36 May 01, 2026 9:56:36 AM smartlib.thread.ThreadManager loadThread
+SEVERE: Unable to load thread, class not found :vnp.lottery.LotteryCode_ver2
+01/05 09:56:46 May 01, 2026 9:56:46 AM smartlib.thread.ThreadManager loadThread
+SEVERE: Unable to load thread, class not found :vnp.lottery.LotteryCode_ver2
+01/05 09:56:56 May 01, 2026 9:56:56 AM smartlib.thread.ThreadManager loadThread
+SEVERE: Unable to load thread, class not found :vnp.lottery.LotteryCode_ver2
+01/05 09:57:06 May 01, 2026 9:57:06 AM smartlib.thread.ThreadManager loadThread
+SEVERE: Unable to load thread, class not found :vnp.lottery.LotteryCode_ver2
+01/05 09:57:16 May 01, 2026 9:57:16 AM smartlib.thread.ThreadManager loadThread
+SEVERE: Unable to load thread, class not found :vnp.lottery.LotteryCode_ver2
+01/05 09:57:26 May 01, 2026 9:57:26 AM smartlib.thread.ThreadManager loadThread
+SEVERE: Unable to load thread, class not found :vnp.lottery.LotteryCode_ver2
+01/05 09:57:36 May 01, 2026 9:57:36 AM smartlib.thread.ThreadManager loadThread
+SEVERE: Unable to load thread, class not found :vnp.lottery.LotteryCode_ver2
+01/05 09:57:46 May 01, 2026 9:57:46 AM smartlib.thread.ThreadManager loadThread
+SEVERE: Unable to load thread, class not found :vnp.lottery.LotteryCode_ver2
+01/05 09:57:56 May 01, 2026 9:57:56 AM smartlib.thread.ThreadManager loadThread
+SEVERE: Unable to load thread, class not found :vnp.lottery.LotteryCode_ver2
+01/05 09:58:06 May 01, 2026 9:58:06 AM smartlib.thread.ThreadManager loadThread
+SEVERE: Unable to load thread, class not found :vnp.lottery.LotteryCode_ver2
+01/05 09:58:16 May 01, 2026 9:58:16 AM smartlib.thread.ThreadManager loadThread
+SEVERE: Unable to load thread, class not found :vnp.lottery.LotteryCode_ver2
+01/05 09:58:26 May 01, 2026 9:58:26 AM smartlib.thread.ThreadManager loadThread
+SEVERE: Unable to load thread, class not found :vnp.lottery.LotteryCode_ver2
+01/05 09:58:36 May 01, 2026 9:58:36 AM smartlib.thread.ThreadManager loadThread
+SEVERE: Unable to load thread, class not found :vnp.lottery.LotteryCode_ver2
+01/05 09:58:46 May 01, 2026 9:58:46 AM smartlib.thread.ThreadManager loadThread
+SEVERE: Unable to load thread, class not found :vnp.lottery.LotteryCode_ver2
+01/05 09:58:56 May 01, 2026 9:58:56 AM smartlib.thread.ThreadManager loadThread
+SEVERE: Unable to load thread, class not found :vnp.lottery.LotteryCode_ver2
+01/05 09:59:06 May 01, 2026 9:59:06 AM smartlib.thread.ThreadManager loadThread
+SEVERE: Unable to load thread, class not found :vnp.lottery.LotteryCode_ver2
+01/05 09:59:16 May 01, 2026 9:59:16 AM smartlib.thread.ThreadManager loadThread
+SEVERE: Unable to load thread, class not found :vnp.lottery.LotteryCode_ver2
+01/05 09:59:26 May 01, 2026 9:59:26 AM smartlib.thread.ThreadManager loadThread
+SEVERE: Unable to load thread, class not found :vnp.lottery.LotteryCode_ver2
+01/05 09:59:36 May 01, 2026 9:59:36 AM smartlib.thread.ThreadManager loadThread
+SEVERE: Unable to load thread, class not found :vnp.lottery.LotteryCode_ver2
+01/05 09:59:46 May 01, 2026 9:59:46 AM smartlib.thread.ThreadManager loadThread
+SEVERE: Unable to load thread, class not found :vnp.lottery.LotteryCode_ver2
+01/05 09:59:56 May 01, 2026 9:59:56 AM smartlib.thread.ThreadManager loadThread
+SEVERE: Unable to load thread, class not found :vnp.lottery.LotteryCode_ver2
+01/05 10:00:06 May 01, 2026 10:00:06 AM smartlib.thread.ThreadManager loadThread
+SEVERE: Unable to load thread, class not found :vnp.lottery.LotteryCode_ver2
+01/05 10:00:16 May 01, 2026 10:00:16 AM smartlib.thread.ThreadManager loadThread
+SEVERE: Unable to load thread, class not found :vnp.lottery.LotteryCode_ver2
+01/05 10:00:26 May 01, 2026 10:00:26 AM smartlib.thread.ThreadManager loadThread
+SEVERE: Unable to load thread, class not found :vnp.lottery.LotteryCode_ver2
+01/05 10:00:36 May 01, 2026 10:00:36 AM smartlib.thread.ThreadManager loadThread
+SEVERE: Unable to load thread, class not found :vnp.lottery.LotteryCode_ver2
+01/05 10:00:46 May 01, 2026 10:00:46 AM smartlib.thread.ThreadManager loadThread
+SEVERE: Unable to load thread, class not found :vnp.lottery.LotteryCode_ver2
+01/05 10:00:56 May 01, 2026 10:00:56 AM smartlib.thread.ThreadManager loadThread
+SEVERE: Unable to load thread, class not found :vnp.lottery.LotteryCode_ver2
+01/05 10:01:06 May 01, 2026 10:01:06 AM smartlib.thread.ThreadManager loadThread
+SEVERE: Unable to load thread, class not found :vnp.lottery.LotteryCode_ver2
+01/05 10:01:16 May 01, 2026 10:01:16 AM smartlib.thread.ThreadManager loadThread
+SEVERE: Unable to load thread, class not found :vnp.lottery.LotteryCode_ver2
+01/05 10:01:26 May 01, 2026 10:01:26 AM smartlib.thread.ThreadManager loadThread
+SEVERE: Unable to load thread, class not found :vnp.lottery.LotteryCode_ver2
+01/05 10:01:36 May 01, 2026 10:01:36 AM smartlib.thread.ThreadManager loadThread
+SEVERE: Unable to load thread, class not found :vnp.lottery.LotteryCode_ver2
+01/05 10:01:46 May 01, 2026 10:01:46 AM smartlib.thread.ThreadManager loadThread
+SEVERE: Unable to load thread, class not found :vnp.lottery.LotteryCode_ver2
+01/05 10:01:56 May 01, 2026 10:01:56 AM smartlib.thread.ThreadManager loadThread
+SEVERE: Unable to load thread, class not found :vnp.lottery.LotteryCode_ver2
+01/05 10:02:06 May 01, 2026 10:02:06 AM smartlib.thread.ThreadManager loadThread
+SEVERE: Unable to load thread, class not found :vnp.lottery.LotteryCode_ver2
+01/05 10:02:16 May 01, 2026 10:02:16 AM smartlib.thread.ThreadManager loadThread
+SEVERE: Unable to load thread, class not found :vnp.lottery.LotteryCode_ver2
+01/05 10:02:26 May 01, 2026 10:02:26 AM smartlib.thread.ThreadManager loadThread
+SEVERE: Unable to load thread, class not found :vnp.lottery.LotteryCode_ver2
+01/05 10:02:36 May 01, 2026 10:02:36 AM smartlib.thread.ThreadManager loadThread
+SEVERE: Unable to load thread, class not found :vnp.lottery.LotteryCode_ver2
+01/05 10:02:46 May 01, 2026 10:02:46 AM smartlib.thread.ThreadManager loadThread
+SEVERE: Unable to load thread, class not found :vnp.lottery.LotteryCode_ver2
+01/05 10:02:56 May 01, 2026 10:02:56 AM smartlib.thread.ThreadManager loadThread
+SEVERE: Unable to load thread, class not found :vnp.lottery.LotteryCode_ver2
+01/05 10:03:06 May 01, 2026 10:03:06 AM smartlib.thread.ThreadManager loadThread
+SEVERE: Unable to load thread, class not found :vnp.lottery.LotteryCode_ver2
+01/05 10:03:16 May 01, 2026 10:03:16 AM smartlib.thread.ThreadManager loadThread
+SEVERE: Unable to load thread, class not found :vnp.lottery.LotteryCode_ver2
+01/05 10:03:26 May 01, 2026 10:03:26 AM smartlib.thread.ThreadManager loadThread
+SEVERE: Unable to load thread, class not found :vnp.lottery.LotteryCode_ver2
+01/05 10:03:36 May 01, 2026 10:03:36 AM smartlib.thread.ThreadManager loadThread
+SEVERE: Unable to load thread, class not found :vnp.lottery.LotteryCode_ver2
+01/05 10:03:46 May 01, 2026 10:03:46 AM smartlib.thread.ThreadManager loadThread
+SEVERE: Unable to load thread, class not found :vnp.lottery.LotteryCode_ver2
+01/05 10:03:56 May 01, 2026 10:03:56 AM smartlib.thread.ThreadManager loadThread
+SEVERE: Unable to load thread, class not found :vnp.lottery.LotteryCode_ver2
+01/05 10:04:06 May 01, 2026 10:04:06 AM smartlib.thread.ThreadManager loadThread
+SEVERE: Unable to load thread, class not found :vnp.lottery.LotteryCode_ver2
+01/05 10:04:16 May 01, 2026 10:04:16 AM smartlib.thread.ThreadManager loadThread
+SEVERE: Unable to load thread, class not found :vnp.lottery.LotteryCode_ver2
+01/05 10:04:26 May 01, 2026 10:04:26 AM smartlib.thread.ThreadManager loadThread
+SEVERE: Unable to load thread, class not found :vnp.lottery.LotteryCode_ver2
+01/05 10:04:36 May 01, 2026 10:04:36 AM smartlib.thread.ThreadManager loadThread
+SEVERE: Unable to load thread, class not found :vnp.lottery.LotteryCode_ver2
+01/05 10:04:46 May 01, 2026 10:04:46 AM smartlib.thread.ThreadManager loadThread
+SEVERE: Unable to load thread, class not found :vnp.lottery.LotteryCode_ver2
+01/05 10:04:56 May 01, 2026 10:04:56 AM smartlib.thread.ThreadManager loadThread
+SEVERE: Unable to load thread, class not found :vnp.lottery.LotteryCode_ver2
+01/05 10:05:06 May 01, 2026 10:05:06 AM smartlib.thread.ThreadManager loadThread
+SEVERE: Unable to load thread, class not found :vnp.lottery.LotteryCode_ver2
+01/05 10:05:16 May 01, 2026 10:05:16 AM smartlib.thread.ThreadManager loadThread
+SEVERE: Unable to load thread, class not found :vnp.lottery.LotteryCode_ver2
+01/05 10:05:26 May 01, 2026 10:05:26 AM smartlib.thread.ThreadManager loadThread
+SEVERE: Unable to load thread, class not found :vnp.lottery.LotteryCode_ver2
+01/05 10:05:36 May 01, 2026 10:05:36 AM smartlib.thread.ThreadManager loadThread
+SEVERE: Unable to load thread, class not found :vnp.lottery.LotteryCode_ver2
+01/05 10:05:46 May 01, 2026 10:05:46 AM smartlib.thread.ThreadManager loadThread
+SEVERE: Unable to load thread, class not found :vnp.lottery.LotteryCode_ver2
+01/05 10:05:56 May 01, 2026 10:05:56 AM smartlib.thread.ThreadManager loadThread
+SEVERE: Unable to load thread, class not found :vnp.lottery.LotteryCode_ver2
+01/05 10:06:06 May 01, 2026 10:06:06 AM smartlib.thread.ThreadManager loadThread
+SEVERE: Unable to load thread, class not found :vnp.lottery.LotteryCode_ver2
+01/05 10:06:16 May 01, 2026 10:06:16 AM smartlib.thread.ThreadManager loadThread
+SEVERE: Unable to load thread, class not found :vnp.lottery.LotteryCode_ver2
+01/05 10:06:26 May 01, 2026 10:06:26 AM smartlib.thread.ThreadManager loadThread
+SEVERE: Unable to load thread, class not found :vnp.lottery.LotteryCode_ver2
+01/05 10:06:36 May 01, 2026 10:06:36 AM smartlib.thread.ThreadManager loadThread
+SEVERE: Unable to load thread, class not found :vnp.lottery.LotteryCode_ver2
+01/05 10:06:46 May 01, 2026 10:06:46 AM smartlib.thread.ThreadManager loadThread
+SEVERE: Unable to load thread, class not found :vnp.lottery.LotteryCode_ver2
+01/05 10:06:56 May 01, 2026 10:06:56 AM smartlib.thread.ThreadManager loadThread
+SEVERE: Unable to load thread, class not found :vnp.lottery.LotteryCode_ver2
+01/05 10:07:06 May 01, 2026 10:07:06 AM smartlib.thread.ThreadManager loadThread
+SEVERE: Unable to load thread, class not found :vnp.lottery.LotteryCode_ver2
+01/05 10:07:16 May 01, 2026 10:07:16 AM smartlib.thread.ThreadManager loadThread
+SEVERE: Unable to load thread, class not found :vnp.lottery.LotteryCode_ver2
+01/05 10:07:26 May 01, 2026 10:07:26 AM smartlib.thread.ThreadManager loadThread
+SEVERE: Unable to load thread, class not found :vnp.lottery.LotteryCode_ver2
+01/05 10:07:36 May 01, 2026 10:07:36 AM smartlib.thread.ThreadManager loadThread
+SEVERE: Unable to load thread, class not found :vnp.lottery.LotteryCode_ver2
+01/05 10:07:46 May 01, 2026 10:07:46 AM smartlib.thread.ThreadManager loadThread
+SEVERE: Unable to load thread, class not found :vnp.lottery.LotteryCode_ver2
+01/05 10:07:56 May 01, 2026 10:07:56 AM smartlib.thread.ThreadManager loadThread
+SEVERE: Unable to load thread, class not found :vnp.lottery.LotteryCode_ver2
+01/05 10:08:06 May 01, 2026 10:08:06 AM smartlib.thread.ThreadManager loadThread
+SEVERE: Unable to load thread, class not found :vnp.lottery.LotteryCode_ver2
+01/05 10:08:16 May 01, 2026 10:08:16 AM smartlib.thread.ThreadManager loadThread
+SEVERE: Unable to load thread, class not found :vnp.lottery.LotteryCode_ver2
+01/05 10:08:26 May 01, 2026 10:08:26 AM smartlib.thread.ThreadManager loadThread
+SEVERE: Unable to load thread, class not found :vnp.lottery.LotteryCode_ver2
+01/05 10:08:36 May 01, 2026 10:08:36 AM smartlib.thread.ThreadManager loadThread
+SEVERE: Unable to load thread, class not found :vnp.lottery.LotteryCode_ver2
+01/05 10:08:46 May 01, 2026 10:08:46 AM smartlib.thread.ThreadManager loadThread
+SEVERE: Unable to load thread, class not found :vnp.lottery.LotteryCode_ver2
+01/05 10:08:56 May 01, 2026 10:08:56 AM smartlib.thread.ThreadManager loadThread
+SEVERE: Unable to load thread, class not found :vnp.lottery.LotteryCode_ver2
+01/05 10:09:06 May 01, 2026 10:09:06 AM smartlib.thread.ThreadManager loadThread
+SEVERE: Unable to load thread, class not found :vnp.lottery.LotteryCode_ver2
+01/05 10:09:16 May 01, 2026 10:09:16 AM smartlib.thread.ThreadManager loadThread
+SEVERE: Unable to load thread, class not found :vnp.lottery.LotteryCode_ver2
+01/05 10:09:26 May 01, 2026 10:09:26 AM smartlib.thread.ThreadManager loadThread
+SEVERE: Unable to load thread, class not found :vnp.lottery.LotteryCode_ver2
+01/05 10:09:36 May 01, 2026 10:09:36 AM smartlib.thread.ThreadManager loadThread
+SEVERE: Unable to load thread, class not found :vnp.lottery.LotteryCode_ver2
+01/05 10:09:46 May 01, 2026 10:09:46 AM smartlib.thread.ThreadManager loadThread
+SEVERE: Unable to load thread, class not found :vnp.lottery.LotteryCode_ver2
+01/05 10:09:56 May 01, 2026 10:09:56 AM smartlib.thread.ThreadManager loadThread
+SEVERE: Unable to load thread, class not found :vnp.lottery.LotteryCode_ver2
+01/05 10:10:06 May 01, 2026 10:10:06 AM smartlib.thread.ThreadManager loadThread
+SEVERE: Unable to load thread, class not found :vnp.lottery.LotteryCode_ver2
+01/05 10:10:16 May 01, 2026 10:10:16 AM smartlib.thread.ThreadManager loadThread
+SEVERE: Unable to load thread, class not found :vnp.lottery.LotteryCode_ver2
+01/05 10:10:26 May 01, 2026 10:10:26 AM smartlib.thread.ThreadManager loadThread
+SEVERE: Unable to load thread, class not found :vnp.lottery.LotteryCode_ver2
+01/05 10:10:36 May 01, 2026 10:10:36 AM smartlib.thread.ThreadManager loadThread
+SEVERE: Unable to load thread, class not found :vnp.lottery.LotteryCode_ver2
+01/05 10:10:46 May 01, 2026 10:10:46 AM smartlib.thread.ThreadManager loadThread
+SEVERE: Unable to load thread, class not found :vnp.lottery.LotteryCode_ver2
+01/05 10:10:56 May 01, 2026 10:10:56 AM smartlib.thread.ThreadManager loadThread
+SEVERE: Unable to load thread, class not found :vnp.lottery.LotteryCode_ver2
+01/05 10:11:06 May 01, 2026 10:11:06 AM smartlib.thread.ThreadManager loadThread
+SEVERE: Unable to load thread, class not found :vnp.lottery.LotteryCode_ver2
+01/05 10:11:16 May 01, 2026 10:11:16 AM smartlib.thread.ThreadManager loadThread
+SEVERE: Unable to load thread, class not found :vnp.lottery.LotteryCode_ver2
+01/05 10:11:26 May 01, 2026 10:11:26 AM smartlib.thread.ThreadManager loadThread
+SEVERE: Unable to load thread, class not found :vnp.lottery.LotteryCode_ver2
+01/05 10:11:36 May 01, 2026 10:11:36 AM smartlib.thread.ThreadManager loadThread
+SEVERE: Unable to load thread, class not found :vnp.lottery.LotteryCode_ver2
+01/05 10:11:46 May 01, 2026 10:11:46 AM smartlib.thread.ThreadManager loadThread
+SEVERE: Unable to load thread, class not found :vnp.lottery.LotteryCode_ver2
+01/05 10:11:56 May 01, 2026 10:11:56 AM smartlib.thread.ThreadManager loadThread
+SEVERE: Unable to load thread, class not found :vnp.lottery.LotteryCode_ver2
+01/05 10:12:06 May 01, 2026 10:12:06 AM smartlib.thread.ThreadManager loadThread
+SEVERE: Unable to load thread, class not found :vnp.lottery.LotteryCode_ver2
+01/05 10:12:16 May 01, 2026 10:12:16 AM smartlib.thread.ThreadManager loadThread
+SEVERE: Unable to load thread, class not found :vnp.lottery.LotteryCode_ver2
+01/05 10:12:26 May 01, 2026 10:12:26 AM smartlib.thread.ThreadManager loadThread
+SEVERE: Unable to load thread, class not found :vnp.lottery.LotteryCode_ver2
+01/05 10:12:36 May 01, 2026 10:12:36 AM smartlib.thread.ThreadManager loadThread
+SEVERE: Unable to load thread, class not found :vnp.lottery.LotteryCode_ver2
+01/05 10:12:46 May 01, 2026 10:12:46 AM smartlib.thread.ThreadManager loadThread
+SEVERE: Unable to load thread, class not found :vnp.lottery.LotteryCode_ver2
+01/05 10:12:56 May 01, 2026 10:12:56 AM smartlib.thread.ThreadManager loadThread
+SEVERE: Unable to load thread, class not found :vnp.lottery.LotteryCode_ver2
+01/05 10:13:06 May 01, 2026 10:13:06 AM smartlib.thread.ThreadManager loadThread
+SEVERE: Unable to load thread, class not found :vnp.lottery.LotteryCode_ver2
+01/05 10:13:16 May 01, 2026 10:13:16 AM smartlib.thread.ThreadManager loadThread
+SEVERE: Unable to load thread, class not found :vnp.lottery.LotteryCode_ver2
+01/05 10:13:26 May 01, 2026 10:13:26 AM smartlib.thread.ThreadManager loadThread
+SEVERE: Unable to load thread, class not found :vnp.lottery.LotteryCode_ver2
+01/05 10:13:36 May 01, 2026 10:13:36 AM smartlib.thread.ThreadManager loadThread
+SEVERE: Unable to load thread, class not found :vnp.lottery.LotteryCode_ver2
+01/05 10:13:46 May 01, 2026 10:13:46 AM smartlib.thread.ThreadManager loadThread
+SEVERE: Unable to load thread, class not found :vnp.lottery.LotteryCode_ver2
+01/05 10:13:56 May 01, 2026 10:13:56 AM smartlib.thread.ThreadManager loadThread
+SEVERE: Unable to load thread, class not found :vnp.lottery.LotteryCode_ver2
+01/05 10:14:06 May 01, 2026 10:14:06 AM smartlib.thread.ThreadManager loadThread
+SEVERE: Unable to load thread, class not found :vnp.lottery.LotteryCode_ver2
+01/05 10:14:16 May 01, 2026 10:14:16 AM smartlib.thread.ThreadManager loadThread
+SEVERE: Unable to load thread, class not found :vnp.lottery.LotteryCode_ver2
+01/05 10:14:26 May 01, 2026 10:14:26 AM smartlib.thread.ThreadManager loadThread
+SEVERE: Unable to load thread, class not found :vnp.lottery.LotteryCode_ver2
+01/05 10:14:36 May 01, 2026 10:14:36 AM smartlib.thread.ThreadManager loadThread
+SEVERE: Unable to load thread, class not found :vnp.lottery.LotteryCode_ver2
+01/05 10:14:46 May 01, 2026 10:14:46 AM smartlib.thread.ThreadManager loadThread
+SEVERE: Unable to load thread, class not found :vnp.lottery.LotteryCode_ver2
+01/05 10:14:56 May 01, 2026 10:14:56 AM smartlib.thread.ThreadManager loadThread
+SEVERE: Unable to load thread, class not found :vnp.lottery.LotteryCode_ver2
+01/05 10:15:06 May 01, 2026 10:15:06 AM smartlib.thread.ThreadManager loadThread
+SEVERE: Unable to load thread, class not found :vnp.lottery.LotteryCode_ver2
+01/05 10:15:16 May 01, 2026 10:15:16 AM smartlib.thread.ThreadManager loadThread
+SEVERE: Unable to load thread, class not found :vnp.lottery.LotteryCode_ver2
+01/05 10:15:26 May 01, 2026 10:15:26 AM smartlib.thread.ThreadManager loadThread
+SEVERE: Unable to load thread, class not found :vnp.lottery.LotteryCode_ver2
+01/05 10:15:36 May 01, 2026 10:15:36 AM smartlib.thread.ThreadManager loadThread
+SEVERE: Unable to load thread, class not found :vnp.lottery.LotteryCode_ver2
+01/05 10:15:46 May 01, 2026 10:15:46 AM smartlib.thread.ThreadManager loadThread
+SEVERE: Unable to load thread, class not found :vnp.lottery.LotteryCode_ver2
+01/05 10:15:56 May 01, 2026 10:15:56 AM smartlib.thread.ThreadManager loadThread
+SEVERE: Unable to load thread, class not found :vnp.lottery.LotteryCode_ver2
+01/05 10:16:06 May 01, 2026 10:16:06 AM smartlib.thread.ThreadManager loadThread
+SEVERE: Unable to load thread, class not found :vnp.lottery.LotteryCode_ver2
+01/05 10:16:16 May 01, 2026 10:16:16 AM smartlib.thread.ThreadManager loadThread
+SEVERE: Unable to load thread, class not found :vnp.lottery.LotteryCode_ver2
+01/05 10:16:26 May 01, 2026 10:16:26 AM smartlib.thread.ThreadManager loadThread
+SEVERE: Unable to load thread, class not found :vnp.lottery.LotteryCode_ver2
+01/05 10:16:36 May 01, 2026 10:16:36 AM smartlib.thread.ThreadManager loadThread
+SEVERE: Unable to load thread, class not found :vnp.lottery.LotteryCode_ver2
+01/05 10:16:46 May 01, 2026 10:16:46 AM smartlib.thread.ThreadManager loadThread
+SEVERE: Unable to load thread, class not found :vnp.lottery.LotteryCode_ver2
+01/05 10:16:56 May 01, 2026 10:16:56 AM smartlib.thread.ThreadManager loadThread
+SEVERE: Unable to load thread, class not found :vnp.lottery.LotteryCode_ver2
+01/05 10:17:06 May 01, 2026 10:17:06 AM smartlib.thread.ThreadManager loadThread
+SEVERE: Unable to load thread, class not found :vnp.lottery.LotteryCode_ver2
+01/05 10:17:16 May 01, 2026 10:17:16 AM smartlib.thread.ThreadManager loadThread
+SEVERE: Unable to load thread, class not found :vnp.lottery.LotteryCode_ver2
+01/05 10:17:26 May 01, 2026 10:17:26 AM smartlib.thread.ThreadManager loadThread
+SEVERE: Unable to load thread, class not found :vnp.lottery.LotteryCode_ver2
+01/05 10:17:36 May 01, 2026 10:17:36 AM smartlib.thread.ThreadManager loadThread
+SEVERE: Unable to load thread, class not found :vnp.lottery.LotteryCode_ver2
+01/05 10:17:46 May 01, 2026 10:17:46 AM smartlib.thread.ThreadManager loadThread
+SEVERE: Unable to load thread, class not found :vnp.lottery.LotteryCode_ver2
+01/05 10:17:56 May 01, 2026 10:17:56 AM smartlib.thread.ThreadManager loadThread
+SEVERE: Unable to load thread, class not found :vnp.lottery.LotteryCode_ver2
+01/05 10:18:06 May 01, 2026 10:18:06 AM smartlib.thread.ThreadManager loadThread
+SEVERE: Unable to load thread, class not found :vnp.lottery.LotteryCode_ver2
+01/05 10:18:16 May 01, 2026 10:18:16 AM smartlib.thread.ThreadManager loadThread
+SEVERE: Unable to load thread, class not found :vnp.lottery.LotteryCode_ver2
+01/05 10:18:26 May 01, 2026 10:18:26 AM smartlib.thread.ThreadManager loadThread
+SEVERE: Unable to load thread, class not found :vnp.lottery.LotteryCode_ver2
+01/05 10:18:36 May 01, 2026 10:18:36 AM smartlib.thread.ThreadManager loadThread
+SEVERE: Unable to load thread, class not found :vnp.lottery.LotteryCode_ver2
+01/05 10:18:46 May 01, 2026 10:18:46 AM smartlib.thread.ThreadManager loadThread
+SEVERE: Unable to load thread, class not found :vnp.lottery.LotteryCode_ver2
+01/05 10:18:56 May 01, 2026 10:18:56 AM smartlib.thread.ThreadManager loadThread
+SEVERE: Unable to load thread, class not found :vnp.lottery.LotteryCode_ver2
+01/05 10:19:06 May 01, 2026 10:19:06 AM smartlib.thread.ThreadManager loadThread
+SEVERE: Unable to load thread, class not found :vnp.lottery.LotteryCode_ver2
+01/05 10:19:16 May 01, 2026 10:19:16 AM smartlib.thread.ThreadManager loadThread
+SEVERE: Unable to load thread, class not found :vnp.lottery.LotteryCode_ver2
+01/05 10:19:26 May 01, 2026 10:19:26 AM smartlib.thread.ThreadManager loadThread
+SEVERE: Unable to load thread, class not found :vnp.lottery.LotteryCode_ver2
+01/05 10:19:36 May 01, 2026 10:19:36 AM smartlib.thread.ThreadManager loadThread
+SEVERE: Unable to load thread, class not found :vnp.lottery.LotteryCode_ver2
+01/05 10:19:46 May 01, 2026 10:19:46 AM smartlib.thread.ThreadManager loadThread
+SEVERE: Unable to load thread, class not found :vnp.lottery.LotteryCode_ver2
+01/05 10:19:56 May 01, 2026 10:19:56 AM smartlib.thread.ThreadManager loadThread
+SEVERE: Unable to load thread, class not found :vnp.lottery.LotteryCode_ver2
+01/05 10:20:06 May 01, 2026 10:20:06 AM smartlib.thread.ThreadManager loadThread
+SEVERE: Unable to load thread, class not found :vnp.lottery.LotteryCode_ver2
+01/05 10:20:16 May 01, 2026 10:20:16 AM smartlib.thread.ThreadManager loadThread
+SEVERE: Unable to load thread, class not found :vnp.lottery.LotteryCode_ver2
+01/05 10:20:26 May 01, 2026 10:20:26 AM smartlib.thread.ThreadManager loadThread
+SEVERE: Unable to load thread, class not found :vnp.lottery.LotteryCode_ver2
+01/05 10:20:36 May 01, 2026 10:20:36 AM smartlib.thread.ThreadManager loadThread
+SEVERE: Unable to load thread, class not found :vnp.lottery.LotteryCode_ver2
+01/05 10:20:46 May 01, 2026 10:20:46 AM smartlib.thread.ThreadManager loadThread
+SEVERE: Unable to load thread, class not found :vnp.lottery.LotteryCode_ver2
+01/05 10:20:56 May 01, 2026 10:20:56 AM smartlib.thread.ThreadManager loadThread
+SEVERE: Unable to load thread, class not found :vnp.lottery.LotteryCode_ver2
+01/05 10:21:06 May 01, 2026 10:21:06 AM smartlib.thread.ThreadManager loadThread
+SEVERE: Unable to load thread, class not found :vnp.lottery.LotteryCode_ver2
+01/05 10:21:16 May 01, 2026 10:21:16 AM smartlib.thread.ThreadManager loadThread
+SEVERE: Unable to load thread, class not found :vnp.lottery.LotteryCode_ver2
+01/05 10:21:26 May 01, 2026 10:21:26 AM smartlib.thread.ThreadManager loadThread
+SEVERE: Unable to load thread, class not found :vnp.lottery.LotteryCode_ver2
+01/05 10:21:36 May 01, 2026 10:21:36 AM smartlib.thread.ThreadManager loadThread
+SEVERE: Unable to load thread, class not found :vnp.lottery.LotteryCode_ver2
+01/05 10:21:46 May 01, 2026 10:21:46 AM smartlib.thread.ThreadManager loadThread
+SEVERE: Unable to load thread, class not found :vnp.lottery.LotteryCode_ver2
+01/05 10:21:56 May 01, 2026 10:21:56 AM smartlib.thread.ThreadManager loadThread
+SEVERE: Unable to load thread, class not found :vnp.lottery.LotteryCode_ver2
+01/05 10:22:06 May 01, 2026 10:22:06 AM smartlib.thread.ThreadManager loadThread
+SEVERE: Unable to load thread, class not found :vnp.lottery.LotteryCode_ver2
+01/05 10:22:16 May 01, 2026 10:22:16 AM smartlib.thread.ThreadManager loadThread
+SEVERE: Unable to load thread, class not found :vnp.lottery.LotteryCode_ver2
+01/05 10:22:26 May 01, 2026 10:22:26 AM smartlib.thread.ThreadManager loadThread
+SEVERE: Unable to load thread, class not found :vnp.lottery.LotteryCode_ver2
+01/05 10:22:36 May 01, 2026 10:22:36 AM smartlib.thread.ThreadManager loadThread
+SEVERE: Unable to load thread, class not found :vnp.lottery.LotteryCode_ver2
+01/05 10:22:46 May 01, 2026 10:22:46 AM smartlib.thread.ThreadManager loadThread
+SEVERE: Unable to load thread, class not found :vnp.lottery.LotteryCode_ver2
+01/05 10:22:56 May 01, 2026 10:22:56 AM smartlib.thread.ThreadManager loadThread
+SEVERE: Unable to load thread, class not found :vnp.lottery.LotteryCode_ver2
+01/05 10:23:06 May 01, 2026 10:23:06 AM smartlib.thread.ThreadManager loadThread
+SEVERE: Unable to load thread, class not found :vnp.lottery.LotteryCode_ver2
+01/05 10:23:16 May 01, 2026 10:23:16 AM smartlib.thread.ThreadManager loadThread
+SEVERE: Unable to load thread, class not found :vnp.lottery.LotteryCode_ver2
+01/05 10:23:26 May 01, 2026 10:23:26 AM smartlib.thread.ThreadManager loadThread
+SEVERE: Unable to load thread, class not found :vnp.lottery.LotteryCode_ver2
+01/05 10:23:36 May 01, 2026 10:23:36 AM smartlib.thread.ThreadManager loadThread
+SEVERE: Unable to load thread, class not found :vnp.lottery.LotteryCode_ver2
+01/05 10:23:46 May 01, 2026 10:23:46 AM smartlib.thread.ThreadManager loadThread
+SEVERE: Unable to load thread, class not found :vnp.lottery.LotteryCode_ver2
+01/05 10:23:56 May 01, 2026 10:23:56 AM smartlib.thread.ThreadManager loadThread
+SEVERE: Unable to load thread, class not found :vnp.lottery.LotteryCode_ver2
+01/05 10:24:06 May 01, 2026 10:24:06 AM smartlib.thread.ThreadManager loadThread
+SEVERE: Unable to load thread, class not found :vnp.lottery.LotteryCode_ver2
+01/05 10:24:16 May 01, 2026 10:24:16 AM smartlib.thread.ThreadManager loadThread
+SEVERE: Unable to load thread, class not found :vnp.lottery.LotteryCode_ver2
+01/05 10:24:26 May 01, 2026 10:24:26 AM smartlib.thread.ThreadManager loadThread
+SEVERE: Unable to load thread, class not found :vnp.lottery.LotteryCode_ver2
+01/05 10:24:36 May 01, 2026 10:24:36 AM smartlib.thread.ThreadManager loadThread
+SEVERE: Unable to load thread, class not found :vnp.lottery.LotteryCode_ver2
+01/05 10:24:46 May 01, 2026 10:24:46 AM smartlib.thread.ThreadManager loadThread
+SEVERE: Unable to load thread, class not found :vnp.lottery.LotteryCode_ver2
+01/05 10:24:56 May 01, 2026 10:24:56 AM smartlib.thread.ThreadManager loadThread
+SEVERE: Unable to load thread, class not found :vnp.lottery.LotteryCode_ver2
+01/05 10:25:06 May 01, 2026 10:25:06 AM smartlib.thread.ThreadManager loadThread
+SEVERE: Unable to load thread, class not found :vnp.lottery.LotteryCode_ver2
+01/05 10:25:16 May 01, 2026 10:25:16 AM smartlib.thread.ThreadManager loadThread
+SEVERE: Unable to load thread, class not found :vnp.lottery.LotteryCode_ver2
+01/05 10:25:26 May 01, 2026 10:25:26 AM smartlib.thread.ThreadManager loadThread
+SEVERE: Unable to load thread, class not found :vnp.lottery.LotteryCode_ver2
+01/05 10:25:36 May 01, 2026 10:25:36 AM smartlib.thread.ThreadManager loadThread
+SEVERE: Unable to load thread, class not found :vnp.lottery.LotteryCode_ver2
+01/05 10:25:46 May 01, 2026 10:25:46 AM smartlib.thread.ThreadManager loadThread
+SEVERE: Unable to load thread, class not found :vnp.lottery.LotteryCode_ver2
+01/05 10:25:56 May 01, 2026 10:25:56 AM smartlib.thread.ThreadManager loadThread
+SEVERE: Unable to load thread, class not found :vnp.lottery.LotteryCode_ver2
+01/05 10:26:36 May 01, 2026 10:26:36 AM smartlib.transport.SocketServer run
+SEVERE: Error
+java.lang.NoSuchMethodException: smartlib.thread.ThreadProcessor.getSystemInfo()
+	at java.lang.Class.getMethod(Class.java:1786)
+	at smartlib.transport.DefaultPacketProcessor.processRequest(DefaultPacketProcessor.java:87)
+	at smartlib.transport.SocketServer.run(SocketServer.java:83)
+	at java.lang.Thread.run(Thread.java:748)
+
+01/05 10:26:39 May 01, 2026 10:26:39 AM smartlib.transport.SocketServer run
+SEVERE: Error
+java.lang.NoSuchMethodException: smartlib.thread.ThreadProcessor.getSystemInfo()
+	at java.lang.Class.getMethod(Class.java:1786)
+	at smartlib.transport.DefaultPacketProcessor.processRequest(DefaultPacketProcessor.java:87)
+	at smartlib.transport.SocketServer.run(SocketServer.java:83)
+	at java.lang.Thread.run(Thread.java:748)
+
+01/05 10:26:42 May 01, 2026 10:26:42 AM smartlib.transport.SocketServer run
+SEVERE: Error
+java.lang.NoSuchMethodException: smartlib.thread.ThreadProcessor.getSystemInfo()
+	at java.lang.Class.getMethod(Class.java:1786)
+	at smartlib.transport.DefaultPacketProcessor.processRequest(DefaultPacketProcessor.java:87)
+	at smartlib.transport.SocketServer.run(SocketServer.java:83)
+	at java.lang.Thread.run(Thread.java:748)
+
+01/05 10:44:12 May 01, 2026 10:44:12 AM smartlib.thread.ManageableThread session
+SEVERE: session
+java.sql.SQLException: Io exception: The Network Adapter could not establish the connection
+	at oracle.jdbc.driver.DatabaseError.throwSqlException(DatabaseError.java:112)
+	at oracle.jdbc.driver.DatabaseError.throwSqlException(DatabaseError.java:146)
+	at oracle.jdbc.driver.DatabaseError.throwSqlException(DatabaseError.java:255)
+	at oracle.jdbc.driver.T4CConnection.logon(T4CConnection.java:387)
+	at oracle.jdbc.driver.PhysicalConnection.<init>(PhysicalConnection.java:439)
+	at oracle.jdbc.driver.T4CConnection.<init>(T4CConnection.java:165)
+	at oracle.jdbc.driver.T4CDriverExtension.getConnection(T4CDriverExtension.java:35)
+	at oracle.jdbc.driver.OracleDriver.connect(OracleDriver.java:801)
+	at java.sql.DriverManager.getConnection(DriverManager.java:664)
+	at java.sql.DriverManager.getConnection(DriverManager.java:247)
+	at snaq.db.ConnectionPool.create(ConnectionPool.java:160)
+	at snaq.util.ObjectPool.checkOut(ObjectPool.java:247)
+	at snaq.db.ConnectionPool.getConnection(ConnectionPool.java:270)
+	at smartlib.database.ConnectionFactory.getConnection(ConnectionFactory.java:82)
+	at vnp.thread.PortalThread.openConnection(PortalThread.java:151)
+	at vnp.thread.PortalThread.beforeSession(PortalThread.java:132)
+	at vnp.lottery.LotteryCode_ver2.beforeSession(LotteryCode_ver2.java:31)
+	at smartlib.thread.ManageableThread.session(ManageableThread.java:947)
+	at smartlib.thread.ManageableThread$2.run(ManageableThread.java:788)
+
+01/05 10:47:35 May 01, 2026 10:47:35 AM smartlib.transport.SocketServer run
+SEVERE: Error
+java.lang.NoSuchMethodException: smartlib.thread.ThreadProcessor.getSystemInfo()
+	at java.lang.Class.getMethod(Class.java:1786)
+	at smartlib.transport.DefaultPacketProcessor.processRequest(DefaultPacketProcessor.java:87)
+	at smartlib.transport.SocketServer.run(SocketServer.java:83)
+	at java.lang.Thread.run(Thread.java:748)
+
+01/05 10:48:48 May 01, 2026 10:48:48 AM smartlib.transport.SocketServer run
+SEVERE: Error
+java.lang.NoSuchMethodException: smartlib.thread.ThreadProcessor.getSystemInfo()
+	at java.lang.Class.getMethod(Class.java:1786)
+	at smartlib.transport.DefaultPacketProcessor.processRequest(DefaultPacketProcessor.java:87)
+	at smartlib.transport.SocketServer.run(SocketServer.java:83)
+	at java.lang.Thread.run(Thread.java:748)
+
+01/05 10:48:51 May 01, 2026 10:48:51 AM smartlib.transport.SocketServer run
+SEVERE: Error
+java.lang.NoSuchMethodException: smartlib.thread.ThreadProcessor.getSystemInfo()
+	at java.lang.Class.getMethod(Class.java:1786)
+	at smartlib.transport.DefaultPacketProcessor.processRequest(DefaultPacketProcessor.java:87)
+	at smartlib.transport.SocketServer.run(SocketServer.java:83)
+	at java.lang.Thread.run(Thread.java:748)
+
+01/05 11:01:55 May 01, 2026 11:01:55 AM smartlib.transport.SocketServer run
+SEVERE: Error
+java.lang.NoSuchMethodException: smartlib.thread.ThreadProcessor.getSystemInfo()
+	at java.lang.Class.getMethod(Class.java:1786)
+	at smartlib.transport.DefaultPacketProcessor.processRequest(DefaultPacketProcessor.java:87)
+	at smartlib.transport.SocketServer.run(SocketServer.java:83)
+	at java.lang.Thread.run(Thread.java:748)
+
+01/05 11:01:58 May 01, 2026 11:01:58 AM smartlib.transport.SocketServer run
+SEVERE: Error
+java.lang.NoSuchMethodException: smartlib.thread.ThreadProcessor.getSystemInfo()
+	at java.lang.Class.getMethod(Class.java:1786)
+	at smartlib.transport.DefaultPacketProcessor.processRequest(DefaultPacketProcessor.java:87)
+	at smartlib.transport.SocketServer.run(SocketServer.java:83)
+	at java.lang.Thread.run(Thread.java:748)
+
+01/05 11:02:01 May 01, 2026 11:02:01 AM smartlib.transport.SocketServer run
+SEVERE: Error
+java.lang.NoSuchMethodException: smartlib.thread.ThreadProcessor.getSystemInfo()
+	at java.lang.Class.getMethod(Class.java:1786)
+	at smartlib.transport.DefaultPacketProcessor.processRequest(DefaultPacketProcessor.java:87)
+	at smartlib.transport.SocketServer.run(SocketServer.java:83)
+	at java.lang.Thread.run(Thread.java:748)
+
+01/05 11:02:04 May 01, 2026 11:02:04 AM smartlib.transport.SocketServer run
+SEVERE: Error
+java.lang.NoSuchMethodException: smartlib.thread.ThreadProcessor.getSystemInfo()
+	at java.lang.Class.getMethod(Class.java:1786)
+	at smartlib.transport.DefaultPacketProcessor.processRequest(DefaultPacketProcessor.java:87)
+	at smartlib.transport.SocketServer.run(SocketServer.java:83)
+	at java.lang.Thread.run(Thread.java:748)
+
+01/05 11:02:07 May 01, 2026 11:02:07 AM smartlib.transport.SocketServer run
+SEVERE: Error
+java.lang.NoSuchMethodException: smartlib.thread.ThreadProcessor.getSystemInfo()
+	at java.lang.Class.getMethod(Class.java:1786)
+	at smartlib.transport.DefaultPacketProcessor.processRequest(DefaultPacketProcessor.java:87)
+	at smartlib.transport.SocketServer.run(SocketServer.java:83)
+	at java.lang.Thread.run(Thread.java:748)
+
+01/05 11:02:10 May 01, 2026 11:02:10 AM smartlib.transport.SocketServer run
+SEVERE: Error
+java.lang.NoSuchMethodException: smartlib.thread.ThreadProcessor.getSystemInfo()
+	at java.lang.Class.getMethod(Class.java:1786)
+	at smartlib.transport.DefaultPacketProcessor.processRequest(DefaultPacketProcessor.java:87)
+	at smartlib.transport.SocketServer.run(SocketServer.java:83)
+	at java.lang.Thread.run(Thread.java:748)
+
+01/05 11:02:13 May 01, 2026 11:02:13 AM smartlib.transport.SocketServer run
+SEVERE: Error
+java.lang.NoSuchMethodException: smartlib.thread.ThreadProcessor.getSystemInfo()
+	at java.lang.Class.getMethod(Class.java:1786)
+	at smartlib.transport.DefaultPacketProcessor.processRequest(DefaultPacketProcessor.java:87)
+	at smartlib.transport.SocketServer.run(SocketServer.java:83)
+	at java.lang.Thread.run(Thread.java:748)
+

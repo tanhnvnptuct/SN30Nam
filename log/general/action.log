@@ -86,3 +86,41 @@
 30/04 11:54:35 [CONNECTED]User 'system' connected successfully
 30/04 11:55:04 User 'system' try to update parameter of thread 'CardTopup'
 30/04 11:55:04 Parameter of thread 'CardTopup' updated
+01/05 10:26:24 [STARTED]ThreadViewQueue started
+01/05 10:26:27 [CONNECTED]User 'system' connected successfully
+01/05 10:33:50 User 'system' try to update parameter of thread 'LotteryCode_ver2'
+01/05 10:33:50 Parameter of thread 'LotteryCode_ver2' updated
+01/05 10:35:20 User 'system' try to update parameter of thread 'CardTopup'
+01/05 10:35:20 Parameter of thread 'CardTopup' updated
+01/05 10:47:34 [STARTED]ThreadViewQueue started
+01/05 10:47:34 [CONNECTED]User 'system' connected successfully
+01/05 10:47:52 User 'system' try to update parameter of thread 'CardTopup'
+01/05 10:47:52 Parameter of thread 'CardTopup' updated
+01/05 10:48:44 [STARTED]ThreadViewQueue started
+01/05 10:48:47 [CONNECTED]User 'system' connected successfully
+01/05 10:49:10 User 'system' try to update parameter of thread 'CardTopup'
+01/05 10:49:10 Parameter of thread 'CardTopup' updated
+01/05 10:49:59 User 'system' try to update parameter of thread 'CardTopup'
+01/05 10:49:59 Parameter of thread 'CardTopup' updated
+01/05 10:52:49 User 'system' try to start thread 'LotteryCode_ver2'
+01/05 10:52:49 [STARTED]LotteryCode_ver2 started
+01/05 10:52:58 User 'system' try to stop thread 'LotteryCode_ver2'
+01/05 10:52:58 [STOPPED]LotteryCode_ver2 stopped
+01/05 10:53:22 User 'system' try to update parameter of thread 'LotteryCode_ver2'
+01/05 10:53:22 Parameter of thread 'LotteryCode_ver2' updated
+01/05 10:53:26 User 'system' try to start thread 'LotteryCode_ver2'
+01/05 10:53:26 [STARTED]LotteryCode_ver2 started
+01/05 10:55:22 User 'system' try to stop thread 'LotteryCode_ver2'
+01/05 10:55:23 [STOPPED]LotteryCode_ver2 stopped
+01/05 10:56:28 User 'system' try to update parameter of thread 'CardTopup'
+01/05 10:56:28 Parameter of thread 'CardTopup' updated
+01/05 10:56:53 User 'system' try to update parameter of thread 'CardTopup'
+01/05 10:56:53 Parameter of thread 'CardTopup' updated
+01/05 10:57:49 User 'system' try to update parameter of thread 'CardTopup'
+01/05 10:57:49 Parameter of thread 'CardTopup' updated
+01/05 11:01:46 [STARTED]ThreadViewQueue started
+01/05 11:01:50 [CONNECTED]User 'system' connected successfully
+01/05 11:03:58 User 'system' try to start thread 'LotteryCode_ver2'
+01/05 11:03:58 [STARTED]LotteryCode_ver2 started
+01/05 11:05:32 User 'system' try to stop thread 'LotteryCode_ver2'
+01/05 11:05:33 [STOPPED]LotteryCode_ver2 stopped

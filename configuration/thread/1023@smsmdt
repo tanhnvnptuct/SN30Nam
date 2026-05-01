@@ -1,0 +1,16 @@
+ThreadName==SMSMDT
+ClassName==vnp.lottery.SMSMDT
+StartupType==2
+Status==1
+Parameter
+	batch_count==1000
+	substr_mdt_1==237
+	substr_mdt_n==228
+	campaign_id==475
+	LogDir==log/smsmdt
+	LogDefinition=^
+	DelayTime==30
+	NotificationInterval
+	NotificationString
+	testing_mode==N
+Schedule
