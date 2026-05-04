@@ -124,3 +124,11 @@
 01/05 11:03:58 [STARTED]LotteryCode_ver2 started
 01/05 11:05:32 User 'system' try to stop thread 'LotteryCode_ver2'
 01/05 11:05:33 [STOPPED]LotteryCode_ver2 stopped
+01/05 11:25:12 User 'system' try to update parameter of thread 'DataReg'
+01/05 11:25:12 Parameter of thread 'DataReg' updated
+01/05 11:26:32 [STARTED]ThreadViewQueue started
+01/05 11:26:38 [CONNECTED]User 'system' connected successfully
+01/05 11:31:47 [STARTED]ThreadViewQueue started
+01/05 11:32:51 [CONNECTED]User 'system' connected successfully
+01/05 11:33:05 User 'system' try to update parameter of thread 'DataReg'
+01/05 11:33:06 Parameter of thread 'DataReg' updated

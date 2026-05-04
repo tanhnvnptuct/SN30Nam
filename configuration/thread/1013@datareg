@@ -3,7 +3,7 @@ ClassName==vnp.lottery.DataReg
 StartupType==2
 Status==2
 Parameter
-	lastSeq==1462736
+	lastSeq==132711649
 	LogDir==log/datareg
 	LogDefinition
 	DelayTime==15

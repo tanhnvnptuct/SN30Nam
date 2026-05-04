@@ -229,3 +229,91 @@
 		<param_old_value>47332837</param_old_value>
 		<param_new_value>47302837</param_new_value>
 	</changedlog>
+	<changedlog>
+		<time>01/05/2026 11:25:12</time>
+		<logid>1777608110516</logid>
+		<user>system</user>
+		<threadid>1013</threadid>
+		<class>vnp.lottery.DataReg</class>
+		<name>DataReg</name>
+		<param_name>lastSeq</param_name>
+		<param_old_value>1462736</param_old_value>
+		<param_new_value></param_new_value>
+	</changedlog>
+	<changedlog>
+		<time>01/05/2026 11:25:12</time>
+		<logid>1777608110516</logid>
+		<user>system</user>
+		<threadid>1013</threadid>
+		<class>vnp.lottery.DataReg</class>
+		<name>DataReg</name>
+		<param_name>LogDir</param_name>
+		<param_old_value>log/datareg</param_old_value>
+		<param_new_value></param_new_value>
+	</changedlog>
+	<changedlog>
+		<time>01/05/2026 11:25:12</time>
+		<logid>1777608110516</logid>
+		<user>system</user>
+		<threadid>1013</threadid>
+		<class>vnp.lottery.DataReg</class>
+		<name>DataReg</name>
+		<param_name>LogDefinition</param_name>
+		<param_old_value></param_old_value>
+		<param_new_value></param_new_value>
+	</changedlog>
+	<changedlog>
+		<time>01/05/2026 11:25:12</time>
+		<logid>1777608110516</logid>
+		<user>system</user>
+		<threadid>1013</threadid>
+		<class>vnp.lottery.DataReg</class>
+		<name>DataReg</name>
+		<param_name>DelayTime</param_name>
+		<param_old_value>15</param_old_value>
+		<param_new_value></param_new_value>
+	</changedlog>
+	<changedlog>
+		<time>01/05/2026 11:25:12</time>
+		<logid>1777608110516</logid>
+		<user>system</user>
+		<threadid>1013</threadid>
+		<class>vnp.lottery.DataReg</class>
+		<name>DataReg</name>
+		<param_name>NotificationInterval</param_name>
+		<param_old_value></param_old_value>
+		<param_new_value></param_new_value>
+	</changedlog>
+	<changedlog>
+		<time>01/05/2026 11:25:12</time>
+		<logid>1777608110516</logid>
+		<user>system</user>
+		<threadid>1013</threadid>
+		<class>vnp.lottery.DataReg</class>
+		<name>DataReg</name>
+		<param_name>NotificationString</param_name>
+		<param_old_value></param_old_value>
+		<param_new_value></param_new_value>
+	</changedlog>
+	<changedlog>
+		<time>01/05/2026 11:25:12</time>
+		<logid>1777608110516</logid>
+		<user>system</user>
+		<threadid>1013</threadid>
+		<class>vnp.lottery.DataReg</class>
+		<name>DataReg</name>
+		<param_name>testing_mode</param_name>
+		<param_old_value>Y</param_old_value>
+		<param_new_value></param_new_value>
+	</changedlog>
+	<changedlog>
+		<time>01/05/2026 11:33:06</time>
+		<logid>1777609970972</logid>
+		<user>system</user>
+		<threadid>1013</threadid>
+		<class>vnp.lottery.DataReg</class>
+		<name>DataReg</name>
+		<param_name>lastSeq</param_name>
+		<param_old_value>1462736</param_old_value>
+		<param_new_value>132686400</param_new_value>
+	</changedlog>

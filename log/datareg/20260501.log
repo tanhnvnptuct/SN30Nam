@@ -1,0 +1,15 @@
+01/05 11:25:18 ORA-06550: line 1, column 13:
+PLS-00201: identifier 'PKG_KM_QUY3_2020.FGET_NOFCODES_INDAY' must be declared
+ORA-06550: line 1, column 7:
+PL/SQL: Statement ignored
+
+01/05 11:25:19 Immediate execution completed
+01/05 11:25:22 Start performing immediate execution
+01/05 11:25:22 ORA-06550: line 1, column 13:
+PLS-00201: identifier 'PKG_KM_QUY3_2020.FGET_NOFCODES_INDAY' must be declared
+ORA-06550: line 1, column 7:
+PL/SQL: Statement ignored
+
+01/05 11:25:23 Immediate execution completed
+01/05 11:34:11 From Seq: 132686400 To 132711649: 25249
+01/05 11:34:11 Immediate execution completed

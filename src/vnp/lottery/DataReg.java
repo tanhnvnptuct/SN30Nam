@@ -28,7 +28,7 @@ public class DataReg extends PortalThread {
 
 	private long lastSeq = 0;
 	private String SQL_STMT = "Select * From data_srv_381132 Where ID>?";
-	private String SQL_GetNofCodes = "{?=call pkg_km_quy3_2020.fget_NofCodes_inDay(?,?)}";
+	private String SQL_GetNofCodes = "{?=call winner.pkg_km_quy3_2020.fget_NofCodes_inDay(?,?)}";
 
 	
 

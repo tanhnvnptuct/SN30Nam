@@ -2140,3 +2140,73 @@ java.lang.NoSuchMethodException: smartlib.thread.ThreadProcessor.getSystemInfo()
 	at smartlib.transport.SocketServer.run(SocketServer.java:83)
 	at java.lang.Thread.run(Thread.java:748)
 
+01/05 11:25:18 java.sql.SQLException: ORA-06550: line 1, column 13:
+PLS-00201: identifier 'PKG_KM_QUY3_2020.FGET_NOFCODES_INDAY' must be declared
+ORA-06550: line 1, column 7:
+PL/SQL: Statement ignored
+
+01/05 11:25:18 	at oracle.jdbc.driver.DatabaseError.throwSqlException(DatabaseError.java:112)
+01/05 11:25:18 	at oracle.jdbc.driver.T4CTTIoer.processError(T4CTTIoer.java:331)
+01/05 11:25:18 	at oracle.jdbc.driver.T4CTTIoer.processError(T4CTTIoer.java:288)
+01/05 11:25:18 	at oracle.jdbc.driver.T4C8Oall.receive(T4C8Oall.java:745)
+01/05 11:25:18 	at oracle.jdbc.driver.T4CCallableStatement.doOall8(T4CCallableStatement.java:215)
+01/05 11:25:18 	at oracle.jdbc.driver.T4CCallableStatement.executeForRows(T4CCallableStatement.java:965)
+01/05 11:25:18 	at oracle.jdbc.driver.OracleStatement.doExecuteWithTimeout(OracleStatement.java:1170)
+01/05 11:25:18 	at oracle.jdbc.driver.OraclePreparedStatement.executeInternal(OraclePreparedStatement.java:3339)
+01/05 11:25:18 	at oracle.jdbc.driver.OraclePreparedStatement.execute(OraclePreparedStatement.java:3445)
+01/05 11:25:18 	at oracle.jdbc.driver.OracleCallableStatement.execute(OracleCallableStatement.java:4394)
+01/05 11:25:18 	at snaq.db.CachedPreparedStatement.execute(CachedPreparedStatement.java:251)
+01/05 11:25:18 	at vnp.lottery.DataReg.processSession(DataReg.java:65)
+01/05 11:25:18 	at smartlib.thread.ManageableThread.session(ManageableThread.java:948)
+01/05 11:25:18 	at smartlib.thread.ManageableThread$2.run(ManageableThread.java:788)
+01/05 11:25:22 java.sql.SQLException: ORA-06550: line 1, column 13:
+PLS-00201: identifier 'PKG_KM_QUY3_2020.FGET_NOFCODES_INDAY' must be declared
+ORA-06550: line 1, column 7:
+PL/SQL: Statement ignored
+
+01/05 11:25:22 	at oracle.jdbc.driver.DatabaseError.throwSqlException(DatabaseError.java:112)
+01/05 11:25:22 	at oracle.jdbc.driver.T4CTTIoer.processError(T4CTTIoer.java:331)
+01/05 11:25:22 	at oracle.jdbc.driver.T4CTTIoer.processError(T4CTTIoer.java:288)
+01/05 11:25:22 	at oracle.jdbc.driver.T4C8Oall.receive(T4C8Oall.java:745)
+01/05 11:25:22 	at oracle.jdbc.driver.T4CCallableStatement.doOall8(T4CCallableStatement.java:215)
+01/05 11:25:22 	at oracle.jdbc.driver.T4CCallableStatement.executeForRows(T4CCallableStatement.java:965)
+01/05 11:25:22 	at oracle.jdbc.driver.OracleStatement.doExecuteWithTimeout(OracleStatement.java:1170)
+01/05 11:25:22 	at oracle.jdbc.driver.OraclePreparedStatement.executeInternal(OraclePreparedStatement.java:3339)
+01/05 11:25:22 	at oracle.jdbc.driver.OraclePreparedStatement.execute(OraclePreparedStatement.java:3445)
+01/05 11:25:22 	at oracle.jdbc.driver.OracleCallableStatement.execute(OracleCallableStatement.java:4394)
+01/05 11:25:22 	at snaq.db.CachedPreparedStatement.execute(CachedPreparedStatement.java:251)
+01/05 11:25:22 	at vnp.lottery.DataReg.processSession(DataReg.java:65)
+01/05 11:25:22 	at smartlib.thread.ManageableThread.session(ManageableThread.java:948)
+01/05 11:25:22 	at smartlib.thread.ManageableThread$2.run(ManageableThread.java:788)
+01/05 11:26:39 May 01, 2026 11:26:39 AM smartlib.transport.SocketServer run
+SEVERE: Error
+java.lang.NoSuchMethodException: smartlib.thread.ThreadProcessor.getSystemInfo()
+	at java.lang.Class.getMethod(Class.java:1786)
+	at smartlib.transport.DefaultPacketProcessor.processRequest(DefaultPacketProcessor.java:87)
+	at smartlib.transport.SocketServer.run(SocketServer.java:83)
+	at java.lang.Thread.run(Thread.java:748)
+
+01/05 11:26:42 May 01, 2026 11:26:42 AM smartlib.transport.SocketServer run
+SEVERE: Error
+java.lang.NoSuchMethodException: smartlib.thread.ThreadProcessor.getSystemInfo()
+	at java.lang.Class.getMethod(Class.java:1786)
+	at smartlib.transport.DefaultPacketProcessor.processRequest(DefaultPacketProcessor.java:87)
+	at smartlib.transport.SocketServer.run(SocketServer.java:83)
+	at java.lang.Thread.run(Thread.java:748)
+
+01/05 11:32:53 May 01, 2026 11:32:53 AM smartlib.transport.SocketServer run
+SEVERE: Error
+java.lang.NoSuchMethodException: smartlib.thread.ThreadProcessor.getSystemInfo()
+	at java.lang.Class.getMethod(Class.java:1786)
+	at smartlib.transport.DefaultPacketProcessor.processRequest(DefaultPacketProcessor.java:87)
+	at smartlib.transport.SocketServer.run(SocketServer.java:83)
+	at java.lang.Thread.run(Thread.java:748)
+
+01/05 11:32:56 May 01, 2026 11:32:56 AM smartlib.transport.SocketServer run
+SEVERE: Error
+java.lang.NoSuchMethodException: smartlib.thread.ThreadProcessor.getSystemInfo()
+	at java.lang.Class.getMethod(Class.java:1786)
+	at smartlib.transport.DefaultPacketProcessor.processRequest(DefaultPacketProcessor.java:87)
+	at smartlib.transport.SocketServer.run(SocketServer.java:83)
+	at java.lang.Thread.run(Thread.java:748)
+
