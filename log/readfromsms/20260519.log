@@ -1,0 +1,68 @@
+19/05 16:37:15 ORA-06550: line 1, column 13:
+PLS-00201: identifier 'PKG_INSTANTLOT.GET_PRIZE_30NAM' must be declared
+ORA-06550: line 1, column 7:
+PL/SQL: Statement ignored
+
+19/05 16:37:16 Immediate execution completed
+19/05 16:37:44 thue bao 84888749789da quay giai: 1
+19/05 16:37:44 thue bao 84888749789da quay giai: 1
+19/05 16:37:44 From Seq: 20 To 20: 2
+19/05 16:37:44 Immediate execution completed
+19/05 16:40:55 Start performing immediate execution
+19/05 16:40:55 thue bao 84888749789da quay giai: 1
+19/05 16:40:55 thue bao 84888749789da quay giai: 1
+19/05 16:40:55 From Seq: 20 To 20: 2
+19/05 16:40:55 Immediate execution completed
+19/05 16:43:26 thue bao 84888749789da quay giai: 1
+19/05 16:43:26 thue bao 84888749789da quay giai: 1
+19/05 16:43:26 From Seq: 20 To 24: 2
+19/05 16:43:26 Immediate execution completed
+19/05 16:44:20 Start performing immediate execution
+19/05 16:44:20 thue bao 84888749789da quay giai: 1
+19/05 16:44:20 thue bao 84888749789da quay giai: 1
+19/05 16:44:20 From Seq: 0 To 24: 2
+19/05 16:44:20 Immediate execution completed
+19/05 16:45:13 Start performing immediate execution
+19/05 16:45:13 thue bao 84888749789da quay giai: -1
+19/05 16:45:13 thue bao 84888749789da quay giai: 0
+19/05 16:45:13 From Seq: 0 To 24: 2
+19/05 16:45:13 Immediate execution completed
+19/05 16:59:55 thue bao 84888749789 da quay giai: -1
+19/05 16:59:55 thue bao 84888749789 da quay giai: -1
+19/05 16:59:55 From Seq: 0 To 24: 2
+19/05 16:59:55 Immediate execution completed
+19/05 17:00:02 Start performing immediate execution
+19/05 17:00:02 Immediate execution completed
+19/05 17:00:40 Start performing immediate execution
+19/05 17:00:40 thue bao 84888749789 da quay giai: -1
+19/05 17:00:40 thue bao 84888749789 da quay giai: -1
+19/05 17:00:40 From Seq: 0 To 24: 2
+19/05 17:00:40 Immediate execution completed
+19/05 17:02:12 Start performing immediate execution
+19/05 17:02:12 thue bao 84888749789 da quay giai: -1
+19/05 17:02:12 thue bao 84888749789 da quay giai: -1
+19/05 17:02:12 From Seq: 0 To 24: 2
+19/05 17:02:12 Immediate execution completed
+19/05 17:06:54 Start performing immediate execution
+19/05 17:06:54 thue bao 84888749789 da quay giai: 1
+19/05 17:06:54 thue bao 84888749789 da quay giai: -1
+19/05 17:06:54 From Seq: 0 To 24: 2
+19/05 17:06:54 Immediate execution completed
+19/05 17:59:43 Start performing immediate execution
+19/05 17:59:43 [NOTIFICATION] THREAD : Is running
+19/05 17:59:43 Immediate execution completed
+19/05 18:00:08 Start performing immediate execution
+19/05 18:00:08 thue bao 84888749789 da quay giai: -1
+19/05 18:00:08 thue bao 84888749789 da quay giai: -1
+19/05 18:00:08 From Seq: 0 To 24: 2
+19/05 18:00:08 Immediate execution completed
+19/05 18:00:36 Start performing immediate execution
+19/05 18:00:36 thue bao 84888749789 da quay giai: -1
+19/05 18:00:36 thue bao 84888749789 da quay giai: -1
+19/05 18:00:36 From Seq: 0 To 24: 2
+19/05 18:00:36 Immediate execution completed
+19/05 18:03:28 Start performing immediate execution
+19/05 18:03:28 thue bao 84888749789 da quay giai: 2
+19/05 18:03:28 thue bao 84888749789 da quay giai: -1
+19/05 18:03:28 From Seq: 0 To 24: 2
+19/05 18:03:28 Immediate execution completed

@@ -1,319 +1,132 @@
 	<changedlog>
-		<time>01/05/2026 10:49:59</time>
-		<logid>1777607327246</logid>
+		<time>19/05/2026 16:44:09</time>
+		<logid>1779183801279</logid>
 		<user>system</user>
-		<threadid>1012</threadid>
-		<class>vnp.lottery.CardTopup</class>
-		<name>CardTopup</name>
+		<threadid>1030</threadid>
+		<class>vnp.lottery.ReadFromSMS</class>
+		<name>SMSMDT</name>
 		<param_name>lastSeq</param_name>
-		<param_old_value>47332837</param_old_value>
-		<param_new_value>47302837</param_new_value>
+		<param_old_value>24</param_old_value>
+		<param_new_value>0</param_new_value>
 	</changedlog>
 	<changedlog>
-		<time>01/05/2026 10:53:22</time>
-		<logid>1777607327247</logid>
+		<time>19/05/2026 16:45:11</time>
+		<logid>1779183801280</logid>
 		<user>system</user>
-		<threadid>1021</threadid>
-		<class>vnp.lottery.LotteryCode_ver2</class>
-		<name>LotteryCode_ver2</name>
-		<param_name>DelayTime</param_name>
-		<param_old_value>10</param_old_value>
+		<threadid>1030</threadid>
+		<class>vnp.lottery.ReadFromSMS</class>
+		<name>SMSMDT</name>
+		<param_name>lastSeq</param_name>
+		<param_old_value>24</param_old_value>
+		<param_new_value>0</param_new_value>
+	</changedlog>
+	<changedlog>
+		<time>19/05/2026 16:59:53</time>
+		<logid>1779184750405</logid>
+		<user>system</user>
+		<threadid>1030</threadid>
+		<class>vnp.lottery.ReadFromSMS</class>
+		<name>Read From SMS</name>
+		<param_name>lastSeq</param_name>
+		<param_old_value>24</param_old_value>
+		<param_new_value>0</param_new_value>
+	</changedlog>
+	<changedlog>
+		<time>19/05/2026 16:59:53</time>
+		<logid>1779184750405</logid>
+		<user>system</user>
+		<threadid>1030</threadid>
+		<class>vnp.lottery.ReadFromSMS</class>
+		<name>Read From SMS</name>
+		<param_name>step</param_name>
+		<param_old_value></param_old_value>
+		<param_new_value>15</param_new_value>
+	</changedlog>
+	<changedlog>
+		<time>19/05/2026 17:00:12</time>
+		<logid>1779184750406</logid>
+		<user>system</user>
+		<threadid>1030</threadid>
+		<class>vnp.lottery.ReadFromSMS</class>
+		<name>Read From SMS</name>
+		<param_name>step</param_name>
+		<param_old_value>15</param_old_value>
 		<param_new_value>2</param_new_value>
 	</changedlog>
 	<changedlog>
-		<time>01/05/2026 10:56:28</time>
-		<logid>1777607327248</logid>
+		<time>19/05/2026 17:00:18</time>
+		<logid>1779184750407</logid>
 		<user>system</user>
-		<threadid>1012</threadid>
-		<class>vnp.lottery.CardTopup</class>
-		<name>CardTopup</name>
+		<threadid>1030</threadid>
+		<class>vnp.lottery.ReadFromSMS</class>
+		<name>Read From SMS</name>
 		<param_name>lastSeq</param_name>
-		<param_old_value>47332837</param_old_value>
-		<param_new_value></param_new_value>
+		<param_old_value>24</param_old_value>
+		<param_new_value>0</param_new_value>
 	</changedlog>
 	<changedlog>
-		<time>01/05/2026 10:56:28</time>
-		<logid>1777607327248</logid>
+		<time>19/05/2026 17:02:09</time>
+		<logid>1779184750408</logid>
 		<user>system</user>
-		<threadid>1012</threadid>
-		<class>vnp.lottery.CardTopup</class>
-		<name>CardTopup</name>
-		<param_name>amount_per_code</param_name>
-		<param_old_value>30000</param_old_value>
-		<param_new_value></param_new_value>
-	</changedlog>
-	<changedlog>
-		<time>01/05/2026 10:56:28</time>
-		<logid>1777607327248</logid>
-		<user>system</user>
-		<threadid>1012</threadid>
-		<class>vnp.lottery.CardTopup</class>
-		<name>CardTopup</name>
-		<param_name>msg_invite</param_name>
-		<param_old_value></param_old_value>
-		<param_new_value></param_new_value>
-	</changedlog>
-	<changedlog>
-		<time>01/05/2026 10:56:28</time>
-		<logid>1777607327248</logid>
-		<user>system</user>
-		<threadid>1012</threadid>
-		<class>vnp.lottery.CardTopup</class>
-		<name>CardTopup</name>
-		<param_name>LogDir</param_name>
-		<param_old_value>log/cardtopup</param_old_value>
-		<param_new_value></param_new_value>
-	</changedlog>
-	<changedlog>
-		<time>01/05/2026 10:56:28</time>
-		<logid>1777607327248</logid>
-		<user>system</user>
-		<threadid>1012</threadid>
-		<class>vnp.lottery.CardTopup</class>
-		<name>CardTopup</name>
-		<param_name>LogDefinition</param_name>
-		<param_old_value></param_old_value>
-		<param_new_value></param_new_value>
-	</changedlog>
-	<changedlog>
-		<time>01/05/2026 10:56:28</time>
-		<logid>1777607327248</logid>
-		<user>system</user>
-		<threadid>1012</threadid>
-		<class>vnp.lottery.CardTopup</class>
-		<name>CardTopup</name>
-		<param_name>DelayTime</param_name>
-		<param_old_value>10</param_old_value>
-		<param_new_value></param_new_value>
-	</changedlog>
-	<changedlog>
-		<time>01/05/2026 10:56:28</time>
-		<logid>1777607327248</logid>
-		<user>system</user>
-		<threadid>1012</threadid>
-		<class>vnp.lottery.CardTopup</class>
-		<name>CardTopup</name>
-		<param_name>NotificationInterval</param_name>
-		<param_old_value></param_old_value>
-		<param_new_value></param_new_value>
-	</changedlog>
-	<changedlog>
-		<time>01/05/2026 10:56:28</time>
-		<logid>1777607327248</logid>
-		<user>system</user>
-		<threadid>1012</threadid>
-		<class>vnp.lottery.CardTopup</class>
-		<name>CardTopup</name>
-		<param_name>NotificationString</param_name>
-		<param_old_value></param_old_value>
-		<param_new_value></param_new_value>
-	</changedlog>
-	<changedlog>
-		<time>01/05/2026 10:56:28</time>
-		<logid>1777607327248</logid>
-		<user>system</user>
-		<threadid>1012</threadid>
-		<class>vnp.lottery.CardTopup</class>
-		<name>CardTopup</name>
-		<param_name>testing_mode</param_name>
-		<param_old_value>Y</param_old_value>
-		<param_new_value></param_new_value>
-	</changedlog>
-	<changedlog>
-		<time>01/05/2026 10:56:53</time>
-		<logid>1777607327249</logid>
-		<user>system</user>
-		<threadid>1012</threadid>
-		<class>vnp.lottery.CardTopup</class>
-		<name>CardTopup</name>
+		<threadid>1030</threadid>
+		<class>vnp.lottery.ReadFromSMS</class>
+		<name>Read From SMS</name>
 		<param_name>lastSeq</param_name>
-		<param_old_value>47332837</param_old_value>
-		<param_new_value></param_new_value>
+		<param_old_value>24</param_old_value>
+		<param_new_value>0</param_new_value>
 	</changedlog>
 	<changedlog>
-		<time>01/05/2026 10:56:53</time>
-		<logid>1777607327249</logid>
+		<time>19/05/2026 17:03:42</time>
+		<logid>1779184750409</logid>
 		<user>system</user>
-		<threadid>1012</threadid>
-		<class>vnp.lottery.CardTopup</class>
-		<name>CardTopup</name>
-		<param_name>amount_per_code</param_name>
-		<param_old_value>30000</param_old_value>
-		<param_new_value></param_new_value>
-	</changedlog>
-	<changedlog>
-		<time>01/05/2026 10:56:53</time>
-		<logid>1777607327249</logid>
-		<user>system</user>
-		<threadid>1012</threadid>
-		<class>vnp.lottery.CardTopup</class>
-		<name>CardTopup</name>
-		<param_name>msg_invite</param_name>
-		<param_old_value></param_old_value>
-		<param_new_value></param_new_value>
-	</changedlog>
-	<changedlog>
-		<time>01/05/2026 10:56:53</time>
-		<logid>1777607327249</logid>
-		<user>system</user>
-		<threadid>1012</threadid>
-		<class>vnp.lottery.CardTopup</class>
-		<name>CardTopup</name>
-		<param_name>LogDir</param_name>
-		<param_old_value>log/cardtopup</param_old_value>
-		<param_new_value></param_new_value>
-	</changedlog>
-	<changedlog>
-		<time>01/05/2026 10:56:53</time>
-		<logid>1777607327249</logid>
-		<user>system</user>
-		<threadid>1012</threadid>
-		<class>vnp.lottery.CardTopup</class>
-		<name>CardTopup</name>
-		<param_name>LogDefinition</param_name>
-		<param_old_value></param_old_value>
-		<param_new_value></param_new_value>
-	</changedlog>
-	<changedlog>
-		<time>01/05/2026 10:56:53</time>
-		<logid>1777607327249</logid>
-		<user>system</user>
-		<threadid>1012</threadid>
-		<class>vnp.lottery.CardTopup</class>
-		<name>CardTopup</name>
-		<param_name>DelayTime</param_name>
-		<param_old_value>10</param_old_value>
-		<param_new_value></param_new_value>
-	</changedlog>
-	<changedlog>
-		<time>01/05/2026 10:56:53</time>
-		<logid>1777607327249</logid>
-		<user>system</user>
-		<threadid>1012</threadid>
-		<class>vnp.lottery.CardTopup</class>
-		<name>CardTopup</name>
-		<param_name>NotificationInterval</param_name>
-		<param_old_value></param_old_value>
-		<param_new_value></param_new_value>
-	</changedlog>
-	<changedlog>
-		<time>01/05/2026 10:56:53</time>
-		<logid>1777607327249</logid>
-		<user>system</user>
-		<threadid>1012</threadid>
-		<class>vnp.lottery.CardTopup</class>
-		<name>CardTopup</name>
-		<param_name>NotificationString</param_name>
-		<param_old_value></param_old_value>
-		<param_new_value></param_new_value>
-	</changedlog>
-	<changedlog>
-		<time>01/05/2026 10:56:53</time>
-		<logid>1777607327249</logid>
-		<user>system</user>
-		<threadid>1012</threadid>
-		<class>vnp.lottery.CardTopup</class>
-		<name>CardTopup</name>
-		<param_name>testing_mode</param_name>
-		<param_old_value>Y</param_old_value>
-		<param_new_value></param_new_value>
-	</changedlog>
-	<changedlog>
-		<time>01/05/2026 10:57:49</time>
-		<logid>1777607327250</logid>
-		<user>system</user>
-		<threadid>1012</threadid>
-		<class>vnp.lottery.CardTopup</class>
-		<name>CardTopup</name>
+		<threadid>1030</threadid>
+		<class>vnp.lottery.ReadFromSMS</class>
+		<name>Read From SMS</name>
 		<param_name>lastSeq</param_name>
-		<param_old_value>47332837</param_old_value>
-		<param_new_value>47302837</param_new_value>
+		<param_old_value>24</param_old_value>
+		<param_new_value>0</param_new_value>
 	</changedlog>
 	<changedlog>
-		<time>01/05/2026 11:25:12</time>
-		<logid>1777608110516</logid>
+		<time>19/05/2026 17:59:41</time>
+		<logid>1779184750410</logid>
 		<user>system</user>
-		<threadid>1013</threadid>
-		<class>vnp.lottery.DataReg</class>
-		<name>DataReg</name>
+		<threadid>1030</threadid>
+		<class>vnp.lottery.ReadFromSMS</class>
+		<name>Read From SMS</name>
+		<param_name>step</param_name>
+		<param_old_value>2</param_old_value>
+		<param_new_value>1</param_new_value>
+	</changedlog>
+	<changedlog>
+		<time>19/05/2026 18:00:03</time>
+		<logid>1779184750411</logid>
+		<user>system</user>
+		<threadid>1030</threadid>
+		<class>vnp.lottery.ReadFromSMS</class>
+		<name>Read From SMS</name>
 		<param_name>lastSeq</param_name>
-		<param_old_value>1462736</param_old_value>
-		<param_new_value></param_new_value>
+		<param_old_value>24</param_old_value>
+		<param_new_value>0</param_new_value>
 	</changedlog>
 	<changedlog>
-		<time>01/05/2026 11:25:12</time>
-		<logid>1777608110516</logid>
+		<time>19/05/2026 18:00:34</time>
+		<logid>1779184750412</logid>
 		<user>system</user>
-		<threadid>1013</threadid>
-		<class>vnp.lottery.DataReg</class>
-		<name>DataReg</name>
-		<param_name>LogDir</param_name>
-		<param_old_value>log/datareg</param_old_value>
-		<param_new_value></param_new_value>
-	</changedlog>
-	<changedlog>
-		<time>01/05/2026 11:25:12</time>
-		<logid>1777608110516</logid>
-		<user>system</user>
-		<threadid>1013</threadid>
-		<class>vnp.lottery.DataReg</class>
-		<name>DataReg</name>
-		<param_name>LogDefinition</param_name>
-		<param_old_value></param_old_value>
-		<param_new_value></param_new_value>
-	</changedlog>
-	<changedlog>
-		<time>01/05/2026 11:25:12</time>
-		<logid>1777608110516</logid>
-		<user>system</user>
-		<threadid>1013</threadid>
-		<class>vnp.lottery.DataReg</class>
-		<name>DataReg</name>
-		<param_name>DelayTime</param_name>
-		<param_old_value>15</param_old_value>
-		<param_new_value></param_new_value>
-	</changedlog>
-	<changedlog>
-		<time>01/05/2026 11:25:12</time>
-		<logid>1777608110516</logid>
-		<user>system</user>
-		<threadid>1013</threadid>
-		<class>vnp.lottery.DataReg</class>
-		<name>DataReg</name>
-		<param_name>NotificationInterval</param_name>
-		<param_old_value></param_old_value>
-		<param_new_value></param_new_value>
-	</changedlog>
-	<changedlog>
-		<time>01/05/2026 11:25:12</time>
-		<logid>1777608110516</logid>
-		<user>system</user>
-		<threadid>1013</threadid>
-		<class>vnp.lottery.DataReg</class>
-		<name>DataReg</name>
-		<param_name>NotificationString</param_name>
-		<param_old_value></param_old_value>
-		<param_new_value></param_new_value>
-	</changedlog>
-	<changedlog>
-		<time>01/05/2026 11:25:12</time>
-		<logid>1777608110516</logid>
-		<user>system</user>
-		<threadid>1013</threadid>
-		<class>vnp.lottery.DataReg</class>
-		<name>DataReg</name>
-		<param_name>testing_mode</param_name>
-		<param_old_value>Y</param_old_value>
-		<param_new_value></param_new_value>
-	</changedlog>
-	<changedlog>
-		<time>01/05/2026 11:33:06</time>
-		<logid>1777609970972</logid>
-		<user>system</user>
-		<threadid>1013</threadid>
-		<class>vnp.lottery.DataReg</class>
-		<name>DataReg</name>
+		<threadid>1030</threadid>
+		<class>vnp.lottery.ReadFromSMS</class>
+		<name>Read From SMS</name>
 		<param_name>lastSeq</param_name>
-		<param_old_value>1462736</param_old_value>
-		<param_new_value>132686400</param_new_value>
+		<param_old_value>24</param_old_value>
+		<param_new_value>0</param_new_value>
+	</changedlog>
+	<changedlog>
+		<time>19/05/2026 18:03:26</time>
+		<logid>1779184750413</logid>
+		<user>system</user>
+		<threadid>1030</threadid>
+		<class>vnp.lottery.ReadFromSMS</class>
+		<name>Read From SMS</name>
+		<param_name>lastSeq</param_name>
+		<param_old_value>24</param_old_value>
+		<param_new_value>0</param_new_value>
 	</changedlog>

@@ -1,0 +1,15 @@
+ThreadName==Read From SMS
+ClassName==vnp.lottery.ReadFromSMS
+StartupType==2
+Status==1
+Parameter
+	lastSeq==24
+	step==1
+	LogDir==log/readfromsms
+	LogDefinition
+	DelayTime==30
+	NotificationInterval
+	NotificationString
+	testing_mode==Y
+
+Schedule
