@@ -130,3 +130,14 @@
 		<param_old_value>24</param_old_value>
 		<param_new_value>0</param_new_value>
 	</changedlog>
+	<changedlog>
+		<time>27/05/2026 16:25:52</time>
+		<logid>1779873893359</logid>
+		<user>system</user>
+		<threadid>1013</threadid>
+		<class>vnp.lottery.DataReg</class>
+		<name>DataReg</name>
+		<param_name>lastSeq</param_name>
+		<param_old_value>132711649</param_old_value>
+		<param_new_value>2750540</param_new_value>
+	</changedlog>

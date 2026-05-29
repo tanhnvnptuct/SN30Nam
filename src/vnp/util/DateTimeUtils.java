@@ -41,6 +41,10 @@ public class DateTimeUtils {
 	public static String FormatDate(Date inpDate) {
 		return Format(inpDate, "dd/MM/yyyy");
 	}
+	
+	public static String FormatDate(Date inpDate, String pattern) {
+		return Format(inpDate, pattern);
+	}
 
 	public static String Format(Date inpDate, String pattern) {
 		String myPattern = "dd/MM/yyyy HH:mm:ss";

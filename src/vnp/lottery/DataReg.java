@@ -104,9 +104,12 @@ public class DataReg extends PortalThread {
 		item.set_id(rs.getLong("ID"));
 		item.set_msisdn(rs.getString("msisdn").substring(2));
 		item.set_amount(rs.getInt("price"));
+		if (rs.getString("package").equalsIgnoreCase("CCBS"))
+			item.set_subtype(1);
+		else
+			item.set_subtype(0);
+		
 		item.set_adddays(0);
-		item.set_subtype(0);
-
 		return item;
 	}
 

@@ -2273,3 +2273,43 @@ java.lang.NoSuchMethodException: smartlib.thread.ThreadProcessor.getSystemInfo()
 	at smartlib.transport.SocketServer.run(SocketServer.java:83)
 	at java.lang.Thread.run(Thread.java:748)
 
+27/05 16:24:54 May 27, 2026 4:24:54 PM smartlib.transport.SocketServer run
+SEVERE: Error
+java.lang.NoSuchMethodException: smartlib.thread.ThreadProcessor.getSystemInfo()
+	at java.lang.Class.getMethod(Class.java:1786)
+	at smartlib.transport.DefaultPacketProcessor.processRequest(DefaultPacketProcessor.java:87)
+	at smartlib.transport.SocketServer.run(SocketServer.java:83)
+	at java.lang.Thread.run(Thread.java:748)
+
+27/05 16:24:57 May 27, 2026 4:24:57 PM smartlib.transport.SocketServer run
+SEVERE: Error
+java.lang.NoSuchMethodException: smartlib.thread.ThreadProcessor.getSystemInfo()
+	at java.lang.Class.getMethod(Class.java:1786)
+	at smartlib.transport.DefaultPacketProcessor.processRequest(DefaultPacketProcessor.java:87)
+	at smartlib.transport.SocketServer.run(SocketServer.java:83)
+	at java.lang.Thread.run(Thread.java:748)
+
+27/05 16:26:09 May 27, 2026 4:26:09 PM smartlib.transport.SocketServer run
+SEVERE: Error
+java.lang.NoSuchMethodException: smartlib.thread.ThreadProcessor.getSystemInfo()
+	at java.lang.Class.getMethod(Class.java:1786)
+	at smartlib.transport.DefaultPacketProcessor.processRequest(DefaultPacketProcessor.java:87)
+	at smartlib.transport.SocketServer.run(SocketServer.java:83)
+	at java.lang.Thread.run(Thread.java:748)
+
+27/05 16:49:22 May 27, 2026 4:49:22 PM smartlib.transport.SocketServer run
+SEVERE: Error
+java.lang.NoSuchMethodException: smartlib.thread.ThreadProcessor.getSystemInfo()
+	at java.lang.Class.getMethod(Class.java:1786)
+	at smartlib.transport.DefaultPacketProcessor.processRequest(DefaultPacketProcessor.java:87)
+	at smartlib.transport.SocketServer.run(SocketServer.java:83)
+	at java.lang.Thread.run(Thread.java:748)
+
+27/05 16:49:25 May 27, 2026 4:49:25 PM smartlib.transport.SocketServer run
+SEVERE: Error
+java.lang.NoSuchMethodException: smartlib.thread.ThreadProcessor.getSystemInfo()
+	at java.lang.Class.getMethod(Class.java:1786)
+	at smartlib.transport.DefaultPacketProcessor.processRequest(DefaultPacketProcessor.java:87)
+	at smartlib.transport.SocketServer.run(SocketServer.java:83)
+	at java.lang.Thread.run(Thread.java:748)
+

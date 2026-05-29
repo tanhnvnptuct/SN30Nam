@@ -1,0 +1,13 @@
+ThreadName==Active Join BI
+ClassName==vnp.lottery.ActiveJoinBI
+StartupType==2
+Status==1
+Parameter
+	LogDir==log/ActiveJoinBI
+	LogDefinition
+	DelayTime==3600
+	NotificationInterval
+	NotificationString
+	testing_mode==Y
+Schedule
+	Schedule==ScheduleType==0\r\nExecutionTime==1\r\nAdditionValue==1\r\nStartTime==14:00:00\r\nEndTime\r\nExpectedDate==02/02/2026\r\nWeekDay\r\nMonthDay\r\nYearMonth\r\nScheduleID==1\r\nExecutionCount==0\r\n

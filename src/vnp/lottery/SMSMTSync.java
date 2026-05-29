@@ -5,6 +5,7 @@ import java.sql.PreparedStatement;
 import java.sql.ResultSet;
 import java.sql.SQLException;
 import java.sql.Timestamp;
+import java.util.Calendar;
 import java.util.Date;
 import java.util.HashMap;
 import java.util.Map;
@@ -36,7 +37,7 @@ public class SMSMTSync extends PortalThread{
 		private String cfg_sms_code1 = "SMS_MDT1";
 		private String cfg_sms_coden = "SMS_MDTN";
 //		private final static String SQL_SELECT = "select CAMPAIGN_ID, MSISDN, MT_CONTENT, STATUS, SENT_TIME from winner.WIN_MT_LOG where campaign_id = 449 ORDER BY SENT_TIME";
-		private final static String SQL_SELECT = "select CAMPAIGN_ID, MSISDN, MT_CONTENT, STATUS, SENT_TIME from winner.WIN_MT_LOG where campaign_id = 448 ORDER BY SENT_TIME";
+		private final static String SQL_SELECT = "select CAMPAIGN_ID, MSISDN, MT_CONTENT, STATUS, SENT_TIME from winner.WIN_MT_LOG where campaign_id = 486 ORDER BY SENT_TIME";
 		private final static String SQL_DELETE = "Delete from winner.WIN_MT_LOG where MSISDN=? and CAMPAIGN_ID=? and SENT_TIME<=?";
 		// private final static String SQL_DELETE = "Delete from WIN_MT_LOG where
 		// MSISDN=? and CAMPAIGN_ID=? and SENT_TIME<=?";
@@ -82,6 +83,12 @@ public class SMSMTSync extends PortalThread{
 						// logMonitor("Parsing: " + codeInfoStr);
 						CodeResponse codeInfo = mapper.readValue(codeInfoStr, CodeResponse.class);
 						if (codeInfo != null && codeInfo.getCodes() != null) {
+							
+							Calendar cal = Calendar.getInstance();
+							cal.setTime(codeInfo.getLotDate());
+							cal.add(Calendar.DATE, 2); // add 1 day
+							String s_lotdate=DateTimeUtils.FormatDate(cal.getTime(),"dd/MM");
+							
 							if (codeInfo.getCodes().size() == 1) {
 								WinMtTemplate mtTpl = getMtTemplate(campaignId, cfg_sms_code1);
 								if (mtTpl == null) {
@@ -89,7 +96,8 @@ public class SMSMTSync extends PortalThread{
 									continue;
 								}
 								mt.setSmsContent(mtTpl.getMtContent()
-										.replace("$LOTDATE$", DateTimeUtils.FormatDate(codeInfo.getLotDate()))
+										//.replace("$LOTDATE$", DateTimeUtils.FormatDate(codeInfo.getLotDate()))
+										.replace("$LOTDATE$", s_lotdate)
 										.replace("$MDT$",String.format("%011d", codeInfo.getCodes().get(0).longValue())));
 								mt.setMoId(1);
 							} else {
@@ -103,7 +111,8 @@ public class SMSMTSync extends PortalThread{
 								//String.format("%010d", Integer.parseInt(mystring));
 								
 								mt.setSmsContent(mtTpl.getMtContent()
-										.replace("$LOTDATE$", DateTimeUtils.FormatDate(codeInfo.getLotDate()))
+										//.replace("$LOTDATE$", DateTimeUtils.FormatDate(codeInfo.getLotDate()))
+										.replace("$LOTDATE$", s_lotdate)
 										//.replace("$SOMDT$", String.valueOf(codeInfo.getCodes().size())));
 										.replace("$SOMDT$", String.format("%02d", codeInfo.getCodes().size())));
 								mt.setMoId(2);

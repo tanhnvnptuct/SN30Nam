@@ -33,7 +33,7 @@ public class SMSMDT extends PortalThread {
 	@Override
 	protected void processSession() throws Exception {
 		CallableStatement stm = mcnMain
-				.prepareCall("insert into sms_mt_1558 (id,msisdn,sms_content,CAMPAIGN_ID) values (seq_sms_mt.nextval,?,?,448)");
+				.prepareCall("insert into sms_mt_1558 (id,msisdn,sms_content,CAMPAIGN_ID) values (seq_sms_mt.nextval,?,?,486)");
 		// stm.registerOutParameter(1, Types.INTEGER);
 		queue = (BlockingQueue<SmsMt>) getCommonVariable(CommonVars.QUEUE_MDT);
 		int count = 0;
